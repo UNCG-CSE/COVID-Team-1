@@ -8,7 +8,7 @@ class CovidData:
     _covidDeathPath = "../data/Covid/covid_deaths_usafacts.csv"
     # Extension data paths.
     _countyEmploymentPath = "../data/Employment/county-ests-employment-and-wages.csv"
-    _CountyHospitalPath = "../Data/Hospitals/Definitive_Healthcare _USA_Hospital_Beds.csv"
+    _countyHospitalPath = "../data/Hospitals/Definitive_Healthcare _USA_Hospital_Beds.csv"
 
     @staticmethod
     def getCovidByCases():
@@ -38,4 +38,4 @@ class CovidData:
 
     @staticmethod
     def getCountyHospital():
-        return pd.read_csv(CovidData._countyHopsitalPath)
+        return pd.read_csv(CovidData._countyHospitalPath)
