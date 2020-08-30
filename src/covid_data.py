@@ -1,4 +1,3 @@
-import csv
 import pandas as pd
 
 class CovidData:
@@ -28,7 +27,7 @@ class CovidData:
         first_merge = pd.merge(CovidData.get_covid_by_cases(), \
                               CovidData.get_covid_by_population(), \
                               how = "inner")
-        secondMerge = pd.merge(first_merge, \
+        second_merge = pd.merge(first_merge, \
                                CovidData.get_covid_by_deaths(), \
                                how = "inner")
         return first_merge
