@@ -1,2 +1,4 @@
 #ignore folders
 /src/__pycache__
+venv/
+venv
