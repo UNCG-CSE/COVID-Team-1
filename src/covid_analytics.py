@@ -1,4 +1,3 @@
-#Test
 from covid_data import *
 import pandas as pd
 def main():
