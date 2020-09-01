@@ -22,11 +22,17 @@ class CovidData:
     def get_covid_by_deaths():
         return pd.read_csv(CovidData._covid_death_path)
 
+    # Method merges the primary Covid data (cases, population, death).
     @staticmethod
     def get_covid_primary_data():
         first_merge = pd.merge(CovidData.get_covid_by_cases(), \
                               CovidData.get_covid_by_population(), \
                               how = "inner")
+        deaths = CovidData.get_covid_by_deaths()
+        deaths.drop(columns = ["County Name", "State", "stateFIPS"], \
+                    inplace = True)
+        print(deaths.info("verbose"))
+        print(deaths)
         second_merge = pd.merge(first_merge, \
                                CovidData.get_covid_by_deaths(), \
                                how = "inner")
