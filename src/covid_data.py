@@ -15,7 +15,7 @@ class CovidData:
         return pd.read_csv(CovidData._covid_cases_path)
 
     @staticmethod
-    def get_covid_by_population():
+    def get_county_population():
         return pd.read_csv(CovidData._covid_population_path)
 
     @staticmethod
