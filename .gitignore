@@ -2,3 +2,6 @@
 /src/__pycache__
 venv/
 venv
+.idea/
+src/.ipynb_checkpoints/
+
