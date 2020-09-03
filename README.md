@@ -1,5 +1,5 @@
 # COVID-Team-1
-Covid analytics in python.
+Covid analytics with python.
 
 ## Table of Contents
 * [General Info](#General-info)
