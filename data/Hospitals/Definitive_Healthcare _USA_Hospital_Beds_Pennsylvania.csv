@@ -1,0 +1,251 @@
+X,Y,OBJECTID,HOSPITAL_NAME,HOSPITAL_TYPE,HQ_ADDRESS,HQ_ADDRESS1,HQ_CITY,HQ_STATE,HQ_ZIP_CODE,COUNTY_NAME,STATE_NAME,STATE_FIPS,CNTY_FIPS,FIPS,NUM_LICENSED_BEDS,NUM_STAFFED_BEDS,NUM_ICU_BEDS,ADULT_ICU_BEDS,PEDI_ICU_BEDS,BED_UTILIZATION,Potential_Increase_In_Bed_Capac,AVG_VENTILATOR_USAGE
+-79.9608074,40.4462661,17,VA Pittsburgh Healthcare System - University Drive,VA Hospital,4100 Allequippa St,,Pittsburgh,PA,15219,Allegheny,Pennsylvania,42,3,42003,146,146,2,2,,,0,2
+-77.234498,39.8250181,3188,Wellspan Gettysburg Hospital,Short Term Acute Care Hospital,147 Gettys St,,Gettysburg,PA,17325,Adams,Pennsylvania,42,1,42001,76,76,8,8,0,0.58175921,0,4
+-79.9463637,40.4614529,3189,West Penn Hospital,Short Term Acute Care Hospital,4800 Friendship Ave,,Pittsburgh,PA,15224,Allegheny,Pennsylvania,42,3,42003,338,260,48,48,68,0.73610955,78,5
+-79.8963731,40.487546,3190,UPMC St Margaret,Short Term Acute Care Hospital,815 Freeport Rd,,Pittsburgh,PA,15215,Allegheny,Pennsylvania,42,3,42003,250,222,14,14,0,0.54156905,28,2
+-80.0145255,40.5733191,3191,UPMC Passavant - McCandless,Short Term Acute Care Hospital,9100 Babcock Blvd,,Pittsburgh,PA,15237,Allegheny,Pennsylvania,42,3,42003,423,365,32,32,0,0.53932297,58,3
+-79.960688,40.4368286,3192,UPMC Magee-Womens Hospital,Short Term Acute Care Hospital,300 Halket St,,Pittsburgh,PA,15213,Allegheny,Pennsylvania,42,3,42003,363,315,18,18,77,0.6774019,48,2
+-80.090742,40.472755,3193,Heritage Valley Kennedy (FKA Ohio Valley General Hospital),Short Term Acute Care Hospital,25 Heckel Rd,,McKeesRocks,PA,15136,Allegheny,Pennsylvania,42,3,42003,124,87,27,27,0,0.29755944,37,2
+-79.9608648,40.4429556,3194,UPMC Presbyterian,Short Term Acute Care Hospital,200 Lothrop St,,Pittsburgh,PA,15213,Allegheny,Pennsylvania,42,3,42003,1542,1175,160,160,0,0.77006912,367,20
+-80.0666096,40.3780993,3195,St Clair Memorial Hospital (FKA St Clair Hospital),Short Term Acute Care Hospital,1000 Bower Hill Rd,,Pittsburgh,PA,15243,Allegheny,Pennsylvania,42,3,42003,329,303,12,12,5,0.49107102,26,4
+-79.7481081,40.4289288,3196,Forbes Hospital,Short Term Acute Care Hospital,2570 Haymaker Rd,,Monroeville,PA,15146,Allegheny,Pennsylvania,42,3,42003,315,234,56,56,4,0.67651331,81,6
+-79.9334877,40.3184396,3197,Jefferson Hospital (FKA Jefferson Regional Medical Center),Short Term Acute Care Hospital,565 Coal Valley Rd,,Jefferson Hills,PA,15025,Allegheny,Pennsylvania,42,3,42003,341,289,20,20,0,0.47252217,52,3
+-79.9532034,40.466533,3198,UPMC Childrens Hospital of Pittsburgh,Childrens Hospital,4401 Penn Ave,,Pittsburgh,PA,15224,Allegheny,Pennsylvania,42,3,42003,312,315,36,36,55,0.7383123,-3,2
+-79.8490186,40.3510349,3199,UPMC McKeesport,Short Term Acute Care Hospital,1500 5th Ave,,McKeesport,PA,15132,Allegheny,Pennsylvania,42,3,42003,195,186,33,33,0,0.63940287,9,2
+-79.9856207,40.4362085,3200,UPMC Mercy,Short Term Acute Care Hospital,1400 Locust St,,Pittsburgh,PA,15219,Allegheny,Pennsylvania,42,3,42003,446,369,29,29,9,0.64726555,77,6
+-79.736921,40.618767,3201,Allegheny Valley Hospital,Short Term Acute Care Hospital,1301 Carlisle St,,Natrona Heights,PA,15065,Allegheny,Pennsylvania,42,3,42003,190,143,16,16,0,0.26272631,47,2
+-80.1780617,40.5426938,3202,Heritage Valley Sewickley,Short Term Acute Care Hospital,701 Broad St,,Sewickley,PA,15143,Allegheny,Pennsylvania,42,3,42003,176,116,12,12,0,0.5216344,60,2
+-80.0028242,40.4565988,3203,Allegheny General Hospital,Short Term Acute Care Hospital,320 E North Ave,,Pittsburgh,PA,15212,Allegheny,Pennsylvania,42,3,42003,552,552,76,76,0,0.70079315,0,15
+-79.5618734,40.8087606,3204,Armstrong County Memorial Hospital (AKA ACMH Hospital),Short Term Acute Care Hospital,1 Nolte Dr,,Kittanning,PA,16201,Armstrong,Pennsylvania,42,5,42005,147,131,12,12,0,0.30776954,16,2
+-80.3210184,40.7121297,3205,Heritage Valley Beaver,Short Term Acute Care Hospital,1000 Dutch Ridge Rd,,Beaver,PA,15009,Beaver,Pennsylvania,42,7,42007,285,194,20,20,0,0.59807938,91,3
+-78.432828,40.0254391,3206,UPMC Bedford,Short Term Acute Care Hospital,10455 Lincoln Hwy,,Everett,PA,15537,Bedford,Pennsylvania,42,9,42009,40,40,4,4,0,0.27564687,0,2
+-75.9787583,40.3754757,3207,Penn State Health St Joseph Medical Center - Main Campus,Short Term Acute Care Hospital,2500 Bernville Rd,,Reading,PA,19605,Berks,Pennsylvania,42,11,42011,204,180,30,30,6,0.56988025,24,4
+-75.9879585,40.3584036,3208,Surgical Institute of Reading,Short Term Acute Care Hospital,2752 Century Blvd,,Wyomissing,PA,19610,Berks,Pennsylvania,42,11,42011,15,15,3,3,0,0.2913242,0,0
+-75.9483624,40.3296481,3209,Reading Hospital,Short Term Acute Care Hospital,420 S 5th Ave,,West Reading,PA,19611,Berks,Pennsylvania,42,11,42011,714,562,41,41,30,0.66589969,152,8
+-78.3889305,40.3378366,3210,Conemaugh Health System - Conemaugh Nason Medical Center (FKA Nason Hospital),Short Term Acute Care Hospital,105 Nason Dr,,Roaring Spring,PA,16673,Blair,Pennsylvania,42,13,42013,45,45,4,4,0,0.2524201,0,2
+-78.3977488,40.4892206,3211,James E Van Zandt VA Medical Center (AKA Altoona VA Medical Center),VA Hospital,2907 Pleasant Valley Blvd,,Altoona,PA,16602,Blair,Pennsylvania,42,13,42013,58,58,0,0,,,0,1
+-78.3988004,40.5214827,3212,UPMC Altoona,Short Term Acute Care Hospital,620 Howard Ave,,Altoona,PA,16601,Blair,Pennsylvania,42,13,42013,368,346,33,33,0,0.70169443,22,8
+-76.5207103,41.9809505,3213,Guthrie Robert Packer Hospital,Short Term Acute Care Hospital,1 Guthrie Sq,,Sayre,PA,18840,Bradford,Pennsylvania,42,15,42015,254,250,38,38,0,0.70406598,4,11
+-76.7943615,41.7935977,3214,Guthrie Troy Community Hospital,Critical Access Hospital,275 Guthrie Dr,,Troy,PA,16947,Bradford,Pennsylvania,42,15,42015,25,25,4,4,0,0.70542467,0,2
+-76.448203,41.784012,3215,Guthrie Towanda Memorial Hospital (AKA Memorial Hospital Inc of Towanda),Short Term Acute Care Hospital,91 Hospital Dr,,Towanda,PA,18848,Bradford,Pennsylvania,42,15,42015,35,35,4,4,0,0.27162427,0,2
+-74.9245941,40.2021618,3216,St Mary Medical Center,Short Term Acute Care Hospital,1201 Langhorne Newtown Rd,,Langhorne,PA,19047,Bucks,Pennsylvania,42,17,42017,373,348,41,41,6,0.64200127,25,13
+-75.1463292,40.3056669,3217,Doylestown Hospital (AKA Doylestown Health),Short Term Acute Care Hospital,595 W State St,,Doylestown,PA,18901,Bucks,Pennsylvania,42,17,42017,217,217,21,21,4,0.63358372,0,10
+-74.9627968,40.1129188,3218,Rothman Orthopaedic Specialty Hospital,Short Term Acute Care Hospital,3300 Tillman Dr,,Bensalem,PA,19020,Bucks,Pennsylvania,42,17,42017,24,24,4,4,0,0.30285388,0,0
+-74.8673542,40.1052731,3219,Lower Bucks Hospital,Short Term Acute Care Hospital,501 Bath Rd,,Bristol,PA,19007,Bucks,Pennsylvania,42,17,42017,175,130,22,22,0,0.27093783,45,4
+-75.3489542,40.4384996,3220,St Lukes Quakertown Campus,Short Term Acute Care Hospital,1021 Park Ave,,Quakertown,PA,18951,Bucks,Pennsylvania,42,17,42017,62,62,11,11,0,0.70428634,0,2
+-75.326214,40.363583,3221,Grand View Hospital (AKA Grand View Health),Short Term Acute Care Hospital,700 Lawn Ave,,Sellersville,PA,18960,Bucks,Pennsylvania,42,17,42017,176,162,20,20,0,0.45635042,14,4
+-79.8804145,40.8673467,3222,Butler Memorial Hospital,Short Term Acute Care Hospital,1 Hospital Way,,Butler,PA,16001,Butler,Pennsylvania,42,19,42019,296,266,35,35,0,0.55685449,30,3
+-78.7052046,40.6578914,3223,Conemaugh Health System - Conemaugh Miners Medical Center,Short Term Acute Care Hospital,290 Haida Ave,,Hastings,PA,16646,Cambria,Pennsylvania,42,21,42021,30,30,5,5,0,0.16484018,0,2
+-78.9191284,40.3055274,3224,Conemaugh Health System - Conemaugh Memorial Medical Center Main Campus,Short Term Acute Care Hospital,1086 Franklin St,,Johnstown,PA,15905,Cambria,Pennsylvania,42,21,42021,468,354,14,14,16,0.58922684,114,13
+-75.7261611,40.8331785,3225,St Lukes Lehighton Campus (FKA Gnaden Huetten Memorial Hospital),Short Term Acute Care Hospital,211 N 12th St,,Lehighton,PA,18235,Carbon,Pennsylvania,42,25,42025,159,68,6,6,0,0.50737309,91,3
+-77.8647,40.8057,3226,Mount Nittany Medical Center,Short Term Acute Care Hospital,1800 E Park Ave,,State College,PA,16803,Centre,Pennsylvania,42,27,42027,260,248,43,43,0,0.49328324,12,4
+-75.8870062,39.8218556,3227,Jennersville Hospital,Short Term Acute Care Hospital,1015 W Baltimore Pike,,West Grove,PA,19390,Chester,Pennsylvania,42,29,42029,63,53,10,10,0,0.36319461,10,2
+-75.7861456,40.0097958,3228,Brandywine Hospital,Short Term Acute Care Hospital,201 Reeceville Rd,,Coatesville,PA,19320,Chester,Pennsylvania,42,29,42029,171,155,27,27,0,0.56365883,16,3
+-75.5154434,40.1236543,3229,Phoenixville Hospital,Short Term Acute Care Hospital,140 Nutt Rd,,Phoenixville,PA,19460,Chester,Pennsylvania,42,29,42029,139,123,9,9,4,0.53888434,16,5
+-75.6020766,39.9713922,3230,Chester County Hospital,Short Term Acute Care Hospital,701 E Marshall St,,West Chester,PA,19380,Chester,Pennsylvania,42,29,42029,244,244,14,14,14,0.5875718,0,10
+-75.5022092,40.044473,3231,Paoli Hospital,Short Term Acute Care Hospital,255 W Lancaster Ave,,Paoli,PA,19301,Chester,Pennsylvania,42,29,42029,231,231,30,30,0,0.60904938,0,4
+-75.7959514,39.9981257,3232,Coatesville VA Medical Center,VA Hospital,1400 Blackhorse Hill Rd,,Coatesville,PA,19320,Chester,Pennsylvania,42,29,42029,302,302,1,1,,,0,1
+-79.3968,41.1918,3233,Clarion Hospital,Short Term Acute Care Hospital,1 Hospital Dr,,Clarion,PA,16214,Clarion,Pennsylvania,42,31,42031,70,57,7,7,0,0.26878154,13,2
+-78.7751509,41.11492,3234,Penn Highlands DuBois,Short Term Acute Care Hospital,100 Hospital Ave,,Dubois,PA,15801,Clearfield,Pennsylvania,42,33,42033,216,201,15,15,16,0.57651466,15,8
+-78.449147,41.033007,3235,Penn Highlands Clearfield,Short Term Acute Care Hospital,809 Turnpike Ave,,Clearfield,PA,16830,Clearfield,Pennsylvania,42,33,42033,50,40,7,7,0,0.32712328,10,2
+-77.470222,41.13189,3236,UPMC Lock Haven (FKA UPMC Susquehanna Lock Haven),Short Term Acute Care Hospital,24 Cree Dr,,Lock Haven,PA,17745,Clinton,Pennsylvania,42,35,42035,47,47,8,8,0,0.16531624,0,2
+-76.231772,41.071132,3237,Berwick Hospital Center,Short Term Acute Care Hospital,701 E 16th St,,Berwick,PA,18603,Columbia,Pennsylvania,42,37,42037,90,87,10,10,0,0.085498348,3,2
+-76.4528243,41.008653,3238,Geisinger Bloomsburg Hospital,Short Term Acute Care Hospital,549 Fair St,,Bloomsburg,PA,17815,Columbia,Pennsylvania,42,37,42037,76,56,12,12,0,0.17871819,20,2
+-80.1457368,41.6415637,3239,Meadville Medical Center,Short Term Acute Care Hospital,751 Liberty St,,Meadville,PA,16335,Crawford,Pennsylvania,42,39,42039,258,145,12,12,0,0.41664621,113,2
+-79.6792,41.6331,3240,Titusville Area Hospital,Critical Access Hospital,406 W Oak St,,Titusville,PA,16354,Crawford,Pennsylvania,42,39,42039,25,25,4,4,0,0.52767122,0,2
+-76.9225545,40.2501631,3241,Geisinger Holy Spirit (FKA Holy Spirit Hospital),Short Term Acute Care Hospital,503 N 21st St,,Camp Hill,PA,17011,Cumberland,Pennsylvania,42,41,42041,310,277,21,21,5,0.43118539,33,10
+-77.2231033,40.1834338,3242,UPMC Carlisle (FKA UPMC Pinnacle Carlisle Carlisle Regional Medical Center),Short Term Acute Care Hospital,361 Alexander Spring Rd,,Carlisle,PA,17015,Cumberland,Pennsylvania,42,41,42041,165,66,10,10,0,0.75442892,99,2
+-76.8802933,40.2576588,3243,UPMC Pinnacle Harrisburg (FKA Harrisburg Hospital),Short Term Acute Care Hospital,111 S Front St,,Harrisburg,PA,17101,Dauphin,Pennsylvania,42,43,42043,627,493,20,20,29,0.86611462,134,9
+-76.6766783,40.2640375,3244,Penn State Health Milton S Hershey Medical Center,Short Term Acute Care Hospital,500 University Dr,,Hershey,PA,17033,Dauphin,Pennsylvania,42,43,42043,548,548,77,77,50,0.82684231,0,16
+-75.430649,39.911231,3245,Riddle Hospital,Short Term Acute Care Hospital,1068 W Baltimore Pike,,Media,PA,19063,Delaware,Pennsylvania,42,45,42045,204,204,14,14,0,0.5346092,0,3
+-75.283626,39.9546974,3246,Delaware County Memorial Hospital,Short Term Acute Care Hospital,501 N Lansdowne Ave,,Drexel Hill,PA,19026,Delaware,Pennsylvania,42,45,42045,168,145,14,14,6,0.45481342,23,5
+-75.321364,40.018943,3247,Bryn Mawr Hospital,Short Term Acute Care Hospital,130 S Bryn Mawr Ave,,Bryn Mawr,PA,19010,Montgomery,Pennsylvania,42,91,42091,287,267,30,30,0,0.49063671,20,5
+-75.268656,39.9270629,3248,Mercy Catholic Medical Center - Mercy Fitzgerald Campus,Short Term Acute Care Hospital,1500 Lansdowne Ave,,Darby,PA,19023,Delaware,Pennsylvania,42,45,42045,183,183,18,18,0,0.58440608,0,12
+-75.3681915,39.8557631,3249,Crozer-Chester Medical Center,Short Term Acute Care Hospital,1 Medical Center Blvd,,Upland,PA,19013,Delaware,Pennsylvania,42,45,42045,459,359,39,39,18,0.62059754,100,20
+-78.5820211,41.4325356,3250,Penn Highlands Elk,Critical Access Hospital,763 Johnsonburg Rd,,Saint Marys,PA,15857,Elk,Pennsylvania,42,47,42047,35,25,4,4,0,0.58882195,10,2
+-80.0926455,42.0776722,3251,Millcreek Community Hospital,Short Term Acute Care Hospital,5515 Peach St,,Erie,PA,16509,Erie,Pennsylvania,42,49,42049,167,130,6,6,0,0.47008067,37,2
+-79.6125,41.9359,3252,Corry Memorial Hospital,Critical Access Hospital,965 Shamrock Ln,,Corry,PA,16407,Erie,Pennsylvania,42,49,42049,20,20,3,3,0,0.32684931,0,2
+-80.0630454,42.1020279,3253,Erie VA Medical Center,VA Hospital,135 E 38th St,,Erie,PA,16504,Erie,Pennsylvania,42,49,42049,21,21,1,1,,,0,1
+-80.0864941,42.1337469,3254,UPMC Hamot,Short Term Acute Care Hospital,201 State St,,Erie,PA,16550,Erie,Pennsylvania,42,49,42049,423,421,42,42,24,0.63923609,2,11
+-80.0792,42.1112,3255,Saint Vincent Hospital,Short Term Acute Care Hospital,232 W 25th St,,Erie,PA,16544,Erie,Pennsylvania,42,49,42049,371,298,20,20,21,0.53969419,73,6
+-79.738542,39.901797,3256,Uniontown Hospital,Short Term Acute Care Hospital,500 W Berkeley St,,Uniontown,PA,15401,Fayette,Pennsylvania,42,51,42051,160,149,15,15,0,0.57423919,11,3
+-79.586714,40.0230614,3257,Highlands Hospital,Short Term Acute Care Hospital,401 E Murphy Ave,,Connellsville,PA,15425,Fayette,Pennsylvania,42,51,42051,64,61,11,11,0,0.30222321,3,2
+-77.6462744,39.9341507,3258,WellSpan Chambersburg Hospital,Short Term Acute Care Hospital,112 N 7th St,,Chambersburg,PA,17201,Franklin,Pennsylvania,42,55,42055,285,242,10,10,7,0.38167304,43,7
+-77.5683004,39.7517574,3259,WellSpan Waynesboro Hospital,Short Term Acute Care Hospital,501 E Main St,,Waynesboro,PA,17268,Franklin,Pennsylvania,42,55,42055,57,57,10,10,0,0.32847872,0,2
+-78.0067842,39.9372284,3260,Fulton County Medical Center,Critical Access Hospital,214 Peach Orchard Rd,,Mc Connellsburg,PA,17233,Fulton,Pennsylvania,42,57,42057,21,21,4,4,0,0.33750814,0,1
+-80.1731205,39.9005975,3261,Washington Health System Greene (FKA Southwest Regional Medical Center),Short Term Acute Care Hospital,350 Bonar Ave,,Waynesburg,PA,15370,Greene,Pennsylvania,42,59,42059,23,23,4,4,0,0.35294819,0,2
+-78.014318,40.49307,3262,Penn Highlands Huntingdon (FKA JC Blair Memorial Hospital),Short Term Acute Care Hospital,1225 Warm Springs Ave,,Huntingdon,PA,16652,Huntingdon,Pennsylvania,42,61,42061,71,57,7,7,0,0.29473683,14,2
+-79.1593649,40.608764,3263,Indiana Regional Medical Center,Short Term Acute Care Hospital,835 Hospital Rd,PO BOX 788,Indiana,PA,15701,Indiana,Pennsylvania,42,63,42063,166,110,12,12,0,0.49083439,56,2
+-79.0915,41.1571,3264,Penn Highlands Brookville,Critical Access Hospital,100 Hospital Rd,,Brookville,PA,15825,Jefferson,Pennsylvania,42,65,42065,35,25,4,4,0,0.4210411,10,2
+-78.999735,40.961282,3265,Punxsutawney Area Hospital,Short Term Acute Care Hospital,81 Hillcrest Dr,,Punxsutawney,PA,15767,Jefferson,Pennsylvania,42,65,42065,49,44,5,5,0,0.37061021,5,2
+-75.6536298,41.4125905,3266,Regional Hospital of Scranton,Short Term Acute Care Hospital,746 Jefferson Ave,,Scranton,PA,18510,Lackawanna,Pennsylvania,42,69,42069,186,154,24,24,0,0.67288738,32,6
+-75.6506849,41.4105157,3267,Moses Taylor Hospital,Short Term Acute Care Hospital,700 Quincy Ave,,Scranton,PA,18510,Lackawanna,Pennsylvania,42,69,42069,213,161,11,11,15,0.5083468,52,3
+-75.6460843,41.4002057,3268,Geisinger Community Medical Center,Short Term Acute Care Hospital,1800 Mulberry St,,Scranton,PA,18510,Lackawanna,Pennsylvania,42,69,42069,293,255,18,18,0,0.53383368,38,9
+-76.3103205,40.1316757,3269,UPMC Lititz (FKA UPMC Pinnacle Lititz Heart of Lancaster Regional Medical Center),Short Term Acute Care Hospital,1500 Highlands Dr,,Lititz,PA,17543,Lancaster,Pennsylvania,42,71,42071,148,55,6,6,0,0.38600248,93,2
+-76.3040232,40.047027,3270,Lancaster General Hospital,Short Term Acute Care Hospital,555 N Duke St,,Lancaster,PA,17602,Lancaster,Pennsylvania,42,71,42071,632,581,48,48,29,0.70811439,51,14
+-76.18254,40.1874241,3271,WellSpan Ephrata Community Hospital,Short Term Acute Care Hospital,169 Martin Ave,,Ephrata,PA,17522,Lancaster,Pennsylvania,42,71,42071,141,115,19,19,5,0.49893984,26,4
+-80.3536706,41.013401,3272,UPMC Jameson (FKA Jameson Memorial Hospital - North Campus),Short Term Acute Care Hospital,1211 Wilmington Ave,,New Castle,PA,16105,Lawrence,Pennsylvania,42,73,42073,153,121,12,12,0,0.51811975,32,3
+-76.3982277,40.3186755,3273,Lebanon VA Medical Center,VA Hospital,1700 S Lincoln Ave,,Lebanon,PA,17042,Lebanon,Pennsylvania,42,75,42075,145,145,2,2,,,0,2
+-76.4161745,40.3359696,3274,WellSpan Good Samaritan Hospital,Short Term Acute Care Hospital,252 S 4th St,,Lebanon,PA,17042,Lebanon,Pennsylvania,42,75,42075,159,145,18,18,0,0.53948039,14,5
+-75.5189855,40.5668875,3275,Lehigh Valley Hospital - Cedar Crest,Short Term Acute Care Hospital,1200 S Cedar Crest Blvd,,Allentown,PA,18103,Lehigh,Pennsylvania,42,77,42077,877,1023,129,129,50,0.67339295,-146,22
+-75.4680248,40.6085179,3276,St Lukes Sacred Heart Campus (FKA Sacred Heart Hospital),Short Term Acute Care Hospital,421 Chew St,,Allentown,PA,18102,Lehigh,Pennsylvania,42,77,42077,133,129,12,12,0,0.66169542,4,2
+-75.4086839,40.644903,3277,Lehigh Valley Hospital - Muhlenberg,Short Term Acute Care Hospital,2545 Schoenersville Rd,,Bethlehem,PA,18017,Lehigh,Pennsylvania,42,77,42077,256,194,30,30,0,0.67524064,62,5
+-75.3658412,40.6725834,3278,Coordinated Health - Bethlehem Hospital,Short Term Acute Care Hospital,2310 Highland Ave,,Bethlehem,PA,18020,Northampton,Pennsylvania,42,95,42095,,,4,4,0,,0,0
+-75.5292167,40.6127379,3279,Coordinated Health - Allentown Hospital,Short Term Acute Care Hospital,1503 N Cedar Crest Blvd,,Allentown,PA,18104,Lehigh,Pennsylvania,42,77,42077,20,20,4,4,0,0.28767124,0,0
+-75.8091288,41.2572105,3280,Geisinger Wyoming Valley Medical Center,Short Term Acute Care Hospital,1000 E Mountain Blvd,,Wilkes Barre,PA,18711,Luzerne,Pennsylvania,42,79,42079,266,300,25,25,14,0.69816124,-34,12
+-75.9641194,40.9491755,3281,Lehigh Valley Hospital - Hazleton (FKA Hazleton General Hospital),Short Term Acute Care Hospital,700 E Broad St,,Hazleton,PA,18201,Luzerne,Pennsylvania,42,79,42079,150,134,12,12,0,0.41416889,16,4
+-75.8679936,41.2585971,3282,Wilkes-Barre General Hospital,Short Term Acute Care Hospital,575 N River St,,Wilkes Barre,PA,18764,Luzerne,Pennsylvania,42,79,42079,412,258,30,30,0,0.57319492,154,9
+-75.8040022,41.2525126,3283,Wilkes-Barre VA Medical Center,VA Hospital,1111 E End Blvd,,Wilkes Barre,PA,18711,Luzerne,Pennsylvania,42,79,42079,58,58,1,1,,,0,2
+-77.2684422,41.2024252,3284,Geisinger Jersey Shore Hospital,Critical Access Hospital,1020 Thompson St,,Jersey Shore,PA,17740,Lycoming,Pennsylvania,42,81,42081,25,25,4,4,0,0.17830136,0,2
+-76.7752239,41.2097073,3285,UPMC Muncy (FKA UPMC Susquehanna Muncy),Critical Access Hospital,215 E Water St,,Muncy,PA,17756,Lycoming,Pennsylvania,42,81,42081,20,20,3,3,0,0.5838356,0,2
+-77.01691,41.247804,3286,UPMC Williamsport (FKA UPMC Susquehanna Williamsport),Short Term Acute Care Hospital,700 High St,,Williamsport,PA,17701,Lycoming,Pennsylvania,42,81,42081,255,227,28,28,0,0.60862464,28,8
+-78.817,41.6719,3287,UPMC Kane (FKA Kane Community Hospital),Short Term Acute Care Hospital,4372 Route 6,,Kane,PA,16735,McKean,Pennsylvania,42,83,42083,31,31,5,5,0,0.11011931,0,2
+-78.6594003,41.9609342,3288,Bradford Regional Medical Center,Short Term Acute Care Hospital,116 Interstate Pkwy,,Bradford,PA,16701,McKean,Pennsylvania,42,83,42083,107,107,5,5,0,0.3664993,0,2
+-80.3720284,41.4118058,3289,UPMC Horizon - Greenville,Short Term Acute Care Hospital,110 N Main St,,Greenville,PA,16125,Mercer,Pennsylvania,42,85,42085,136,122,6,6,0,0.27569944,14,3
+-80.4957376,41.2324604,3290,Sharon Regional Medical Center (FKA Sharon Regional Health System),Short Term Acute Care Hospital,740 E State St,,Sharon,PA,16146,Mercer,Pennsylvania,42,85,42085,220,195,12,12,0,0.43511063,25,4
+-80.0827882,41.1696852,3291,AHN Grove City (FKA Grove City Medical Center),Short Term Acute Care Hospital,631 N Broad Street Ext,,Grove City,PA,16127,Mercer,Pennsylvania,42,85,42085,67,77,8,8,0,0.14488454,-10,2
+-80.4176,41.33,3292,Edgewood Surgical Hospital,Short Term Acute Care Hospital,239 Edgewood Drive Ext,,Transfer,PA,16154,Mercer,Pennsylvania,42,85,42085,10,10,2,2,0,0.02958904,0,0
+-77.5669123,40.6180245,3293,Geisinger Lewistown Hospital,Short Term Acute Care Hospital,400 Highland Ave,,Lewistown,PA,17044,Mifflin,Pennsylvania,42,87,42087,123,109,10,10,0,0.30466256,14,3
+-75.1753166,40.9931408,3294,Lehigh Valley Hospital - Pocono (FKA Pocono Medical Center),Short Term Acute Care Hospital,206 E Brown St,,East Stroudsburg,PA,18301,Monroe,Pennsylvania,42,89,42089,249,205,20,20,0,0.4659138,44,6
+-75.2564034,39.9896628,3295,Lankenau Medical Center,Short Term Acute Care Hospital,100 E Lancaster Ave,,Wynnewood,PA,19096,Montgomery,Pennsylvania,42,91,42091,370,370,46,46,0,0.62152535,0,10
+-75.3399048,40.121497,3296,Valley Forge Medical Center and Hospital,Short Term Acute Care Hospital,1033 W Germantown Pike,,Norristown,PA,19403,Montgomery,Pennsylvania,42,91,42091,50,50,9,9,0,0.68897688,0,0
+-75.4170304,40.1526862,3297,Eagleville Hospital,Short Term Acute Care Hospital,100 Eagleville Rd,,Eagleville,PA,19403,Montgomery,Pennsylvania,42,91,42091,83,49,9,9,0,0.68247133,34,0
+-75.1203606,40.1193682,3298,Abington Hospital - Jefferson Health (FKA Abington Memorial Hospital),Short Term Acute Care Hospital,1200 Old York Rd,,Abington,PA,19001,Montgomery,Pennsylvania,42,91,42091,655,592,89,89,0,0.59034467,63,15
+-75.3149222,40.1396498,3299,Suburban Community Hospital (FKA Mercy Suburban Hospital),Short Term Acute Care Hospital,2701 Dekalb Pike,,East Norriton,PA,19401,Montgomery,Pennsylvania,42,91,42091,126,111,12,12,0,0.23337036,15,6
+-75.6121704,40.2426719,3300,Pottstown Hospital,Short Term Acute Care Hospital,1600 E High St,,Pottstown,PA,19464,Montgomery,Pennsylvania,42,91,42091,232,183,18,18,0,0.41476157,49,5
+-75.3426317,40.1507307,3301,Einstein Medical Center Montgomery (FKA Montgomery Hospital Medical Center),Short Term Acute Care Hospital,559 W Germantown Pike,,East Norriton,PA,19403,Montgomery,Pennsylvania,42,91,42091,171,170,22,22,9,0.71310025,1,6
+-75.0824249,40.1097889,3302,Holy Redeemer Hospital and Medical Center (AKA Holy Redeemer Health System),Short Term Acute Care Hospital,1648 Huntingdon Pike,,Meadowbrook,PA,19046,Montgomery,Pennsylvania,42,91,42091,242,201,20,20,22,0.49557692,41,5
+-75.2714216,40.2504115,3303,Abington - Lansdale Hospital (FKA Lansdale Hospital),Short Term Acute Care Hospital,100 Medical Campus Dr,,Lansdale,PA,19446,Montgomery,Pennsylvania,42,91,42091,140,140,14,14,0,0.38663405,0,4
+-76.6053472,40.9677777,3304,Geisinger Medical Center,Short Term Acute Care Hospital,100 N Academy Ave,,Danville,PA,17822,Montour,Pennsylvania,42,93,42093,559,524,68,68,55,0.73741734,35,20
+-75.3704579,40.6259316,3305,St Lukes University Hospital - Bethlehem,Short Term Acute Care Hospital,801 Ostrum St,,Bethlehem,PA,18015,Northampton,Pennsylvania,42,95,42095,582,482,14,14,16,0.72759396,100,16
+-75.2427201,40.6870829,3306,St Lukes Hospital Easton Campus (FKA Easton Hospital),Short Term Acute Care Hospital,250 S 21st St,,Easton,PA,18042,Northampton,Pennsylvania,42,95,42095,196,164,24,24,0,0.29719344,32,4
+-75.090017,40.0716147,3307,Fox Chase Cancer Center,Short Term Acute Care Hospital,333 Cottman Ave,,Philadelphia,PA,19111,Philadelphia,Pennsylvania,42,101,42101,100,100,8,8,0,0.58534247,0,3
+-75.0421637,40.0588411,3308,Nazareth Hospital,Short Term Acute Care Hospital,2601 Holme Ave,,Philadelphia,PA,19152,Philadelphia,Pennsylvania,42,101,42101,185,152,14,14,0,0.54110634,33,7
+-75.1555261,39.9455289,3309,Pennsylvania Hospital,Short Term Acute Care Hospital,800 Spruce St,,Philadelphia,PA,19107,Philadelphia,Pennsylvania,42,101,42101,475,403,50,50,50,0.5194602,72,16
+-75.1994479,39.9584267,3310,Penn Presbyterian Medical Center,Short Term Acute Care Hospital,51 N 39th St,,Philadelphia,PA,19104,Philadelphia,Pennsylvania,42,101,42101,350,316,44,44,0,0.85294753,34,25
+-75.2101043,40.0289682,3311,Roxborough Memorial Hospital,Short Term Acute Care Hospital,5800 Ridge Ave,,Philadelphia,PA,19128,Philadelphia,Pennsylvania,42,101,42101,131,107,18,18,0,0.30218923,24,3
+-75.0986184,40.0190913,3312,Cancer Treatment Centers of America - Philadelphia,Short Term Acute Care Hospital,1331 E Wyoming Ave,,Philadelphia,PA,19124,Philadelphia,Pennsylvania,42,101,42101,74,74,12,12,0,0.094150312,0,2
+-75.1935457,39.9487,3313,Childrens Hospital of Philadelphia (AKA CHOP),Childrens Hospital,3401 Civic Center Blvd,,Philadelphia,PA,19104,Philadelphia,Pennsylvania,42,101,42101,564,555,88,88,0,0.85161543,9,29
+-75.2001349,39.9479816,3314,Corporal Michael J Crescenz VA Medical Center (AKA Philadelphia VA Medical Center),VA Hospital,3900 Woodland Ave,,Philadelphia,PA,19104,Philadelphia,Pennsylvania,42,101,42101,142,142,3,3,,,0,2
+-75.1939906,39.9500798,3315,Hospital of the University of Pennsylvania,Short Term Acute Care Hospital,3400 Spruce St,,Philadelphia,PA,19104,Philadelphia,Pennsylvania,42,101,42101,790,748,110,110,37,0.87597972,42,46
+-75.1579312,39.9498107,3316,Thomas Jefferson University Hospital,Short Term Acute Care Hospital,111 S 11th St,,Philadelphia,PA,19107,Philadelphia,Pennsylvania,42,101,42101,908,832,29,29,80,0.69751447,76,29
+-75.1431823,40.0367216,3317,Einstein Medical Center Philadelphia,Short Term Acute Care Hospital,5501 Old York Rd,,Philadelphia,PA,19141,Philadelphia,Pennsylvania,42,101,42101,750,509,32,32,23,0.69514322,241,17
+-75.1347791,39.9817591,3318,Kensington Hospital,Short Term Acute Care Hospital,136 Diamond St,,Philadelphia,PA,19122,Philadelphia,Pennsylvania,42,101,42101,45,14,2,2,0,0.69960862,31,0
+-75.2125022,40.0795094,3319,Chestnut Hill Hospital (AKA Chestnut Hill Health System),Short Term Acute Care Hospital,8835 Germantown Ave,,Philadelphia,PA,19118,Philadelphia,Pennsylvania,42,101,42101,148,128,14,14,0,0.63773543,20,8
+-75.1507198,40.0054237,3320,Temple University Hospital,Short Term Acute Care Hospital,3401 N Broad St,,Philadelphia,PA,19140,Philadelphia,Pennsylvania,42,101,42101,732,451,53,53,26,0.68305892,281,40
+-77.9798103,41.7718276,3321,UPMC Cole,Critical Access Hospital,1001 E 2nd St,,Coudersport,PA,16915,Potter,Pennsylvania,42,105,42105,49,25,4,4,0,0.5352329,24,2
+-75.9145494,40.8212655,3322,St Lukes Miners Campus,Short Term Acute Care Hospital,360 W Ruddle St,,Coaldale,PA,18218,Schuylkill,Pennsylvania,42,107,42107,49,49,6,6,0,0.49164104,0,2
+-76.1882454,40.6837611,3323,Lehigh Valley Hospital - Schuylkill S Jackson Street (FKA Schuylkill Medical Center - S Jackson Street),Short Term Acute Care Hospital,420 S Jackson St,,Pottsville,PA,17901,Schuylkill,Pennsylvania,42,107,42107,189,118,10,10,0,0.67289972,71,6
+-76.1884265,40.6907836,3324,Lehigh Valley Hospital - Schuylkill E Norwegian Street (FKA Schuylkill Medical Center - E Norwegian Street),Short Term Acute Care Hospital,700 E Norwegian St,,Pottsville,PA,17901,Schuylkill,Pennsylvania,42,107,42107,126,99,10,10,0,0.62617052,27,6
+-79.0777455,40.0071173,3325,UPMC Somerset (FKA Somerset Hospital),Short Term Acute Care Hospital,225 S Center Ave,,Somerset,PA,15501,Somerset,Pennsylvania,42,111,42111,111,81,14,14,0,0.25871807,30,3
+-78.838278,40.241978,3326,Chan Soon-Shiong Medical Center at Windber (FKA Windber Medical Center),Short Term Acute Care Hospital,600 Somerset Ave,,Windber,PA,15963,Somerset,Pennsylvania,42,111,42111,54,47,6,6,0,0.14304867,7,2
+-75.8368724,41.8375498,3327,Endless Mountains Health System (FKA Montrose General Hospital),Critical Access Hospital,100 Hospital Dr,,Montrose,PA,18801,Susquehanna,Pennsylvania,42,115,42115,25,25,4,4,0,0.30136988,0,0
+-77.297248,41.772989,3328,UPMC Wellsboro (FKA UPMC Susquehanna Soldiers & Sailors Memorial Hospital),Critical Access Hospital,32 Central Ave,,Wellsboro,PA,16901,Tioga,Pennsylvania,42,117,42117,25,25,6,6,0,0.61479449,0,3
+-76.8870489,40.9798532,3329,Evangelical Community Hospital,Short Term Acute Care Hospital,1 Hospital Dr,,Lewisburg,PA,17837,Union,Pennsylvania,42,119,42119,132,123,12,12,0,0.37282547,9,4
+-79.7000476,41.3615755,3330,UPMC Northwest,Short Term Acute Care Hospital,100 Fairfield Dr,,Seneca,PA,16346,Venango,Pennsylvania,42,121,42121,158,118,8,8,0,0.4332037,40,3
+-79.154769,41.843272,3331,Warren General Hospital,Short Term Acute Care Hospital,2 W Crescent Park,,Warren,PA,16365,Warren,Pennsylvania,42,123,42123,85,85,6,6,0,0.33772764,0,2
+-79.9112996,40.1815373,3332,Monongahela Valley Hospital,Short Term Acute Care Hospital,1163 Country Club Rd,,Monongahela,PA,15063,Washington,Pennsylvania,42,125,42125,200,132,8,8,0,0.5172435,68,3
+-80.1901219,40.2460974,3333,Canonsburg Hospital,Short Term Acute Care Hospital,100 Medical Blvd,,Canonsburg,PA,15317,Washington,Pennsylvania,42,125,42125,104,88,8,8,0,0.1728518,16,2
+-80.246246,40.1831171,3334,Washington Hospital,Short Term Acute Care Hospital,155 Wilson Ave,,Washington,PA,15301,Washington,Pennsylvania,42,125,42125,260,214,37,37,0,0.43746001,46,3
+-75.26012,41.5767454,3335,Wayne Memorial Hospital,Short Term Acute Care Hospital,601 Park St,,Honesdale,PA,18431,Wayne,Pennsylvania,42,127,42127,95,76,8,8,0,0.36459985,19,3
+-79.5547877,40.3006156,3336,Excela Health Westmoreland Hospital,Short Term Acute Care Hospital,532 W Pittsburgh St,,Greensburg,PA,15601,Westmoreland,Pennsylvania,42,129,42129,375,246,22,22,0,0.72138321,129,7
+-79.5493678,40.1455885,3337,Excela Health Frick Hospital,Short Term Acute Care Hospital,508 S Church St,,Mount Pleasant,PA,15666,Westmoreland,Pennsylvania,42,129,42129,33,33,6,6,0,0.68941468,0,2
+-79.394768,40.297106,3338,Excela Health Latrobe Hospital,Short Term Acute Care Hospital,121 W 2nd Ave,,Latrobe,PA,15650,Westmoreland,Pennsylvania,42,129,42129,170,122,11,11,0,0.57459068,48,3
+-75.9696,41.5775,3339,Tyler Memorial Hospital,Short Term Acute Care Hospital,5950 State Rt 6,,Tunkhannock,PA,18657,Wyoming,Pennsylvania,42,131,42131,44,44,6,6,0,0.060958903,0,2
+-76.9829377,39.8085683,3340,UPMC Hanover (FKA UPMC Pinnacle Hanover Hanover Hospital),Short Term Acute Care Hospital,300 Highland Ave,,Hanover,PA,17331,York,Pennsylvania,42,133,42133,93,81,14,14,0,0.71292579,12,2
+-76.769775,39.9812602,3341,UPMC Memorial (FKA UPMC Pinnacle Memorial Hospital York),Short Term Acute Care Hospital,1701 Innovation Dr,,York,PA,17408,York,Pennsylvania,42,133,42133,100,60,10,10,0,0.59018266,40,2
+-76.7174633,39.9448346,3342,WellSpan York Hospital,Short Term Acute Care Hospital,1001 S George St,,York,PA,17403,York,Pennsylvania,42,133,42133,585,522,60,60,44,0.76428932,63,17
+-75.1245513,40.0069967,4314,St Christophers Hospital for Children,Childrens Hospital,160 E Erie Ave,,Philadelphia,PA,19134,Philadelphia,Pennsylvania,42,101,42101,188,188,44,44,29,0.43022901,0,7
+-75.90848,41.2365827,4337,Geisinger South Wilkes - Barre,Short Term Acute Care Hospital,25 Church St,,Wilkes Barre,PA,18765,Luzerne,Pennsylvania,42,79,42079,28,28,0,0,,0.65129167,0,0
+-75.1726416,39.9448344,4338,Penn Medicine Rittenhouse,Long Term Acute Care Hospital,1800 Lombard St,,Philadelphia,PA,19146,Philadelphia,Pennsylvania,42,101,42101,38,38,7,7,0,0.6770007,0,3
+-79.0251007,39.8089811,4360,Conemaugh Health System - Conemaugh Meyersdale Medical Center (FKA Meyersdale Community Hospital),Critical Access Hospital,200 Hospital Dr,,Meyersdale,PA,15552,Somerset,Pennsylvania,42,111,42111,20,20,3,3,0,0.2089041,0,1
+-75.0994722,40.0266061,4364,Friends Hospital,Psychiatric Hospital,4641 Roosevelt Blvd,,Philadelphia,PA,19124,Philadelphia,Pennsylvania,42,101,42101,192,192,1,1,0,0.9418807,0,1
+-76.6053472,40.9677777,4370,Select Specialty Hospital - Danville,Long Term Acute Care Hospital,100 N Academy Ave,,Danville,PA,17822,Montour,Pennsylvania,42,93,42093,30,30,7,7,0,0.77479452,0,3
+-76.4694104,40.2475928,4396,WellSpan Philhaven (FKA Philhaven Behavioral Healthcare Services),Psychiatric Hospital,283 Butler Rd,,Mount Gretna,PA,17064,Lebanon,Pennsylvania,42,75,42075,103,103,0,0,0,0.93746507,0,0
+-80.208733,40.4386192,4446,CuraHealth Hospital - Pittsburgh (FKA Kindred Hospital Pittsburgh),Long Term Acute Care Hospital,7777 Steubenville Pike,,Oakdale,PA,15071,Allegheny,Pennsylvania,42,3,42003,63,63,10,10,0,0.19108503,0,2
+-79.9374887,40.4642045,4448,Childrens Home of Pittsburgh,Childrens Hospital,5324 Penn Ave,,Pittsburgh,PA,15224,Allegheny,Pennsylvania,42,3,42003,30,30,12,12,,,0,1
+-75.8894307,41.2697317,4477,First Hospital,Psychiatric Hospital,562 Wyoming Ave,,Kingston,PA,18704,Luzerne,Pennsylvania,42,79,42079,149,127,0,0,0,0.80619133,22,0
+-79.1458845,41.8791813,4483,Warren State Hospital,Psychiatric Hospital,33 Main Dr,,Warren,PA,16365,Warren,Pennsylvania,42,123,42123,152,152,0,0,0,0.90077507,0,0
+-76.9848418,41.2600877,4484,UPMC Williamsport Divine Providence Campus (FKA Williamsport Regional Medical Center - Divine Providence Campus),Psychiatric Hospital,1100 Grampian Blvd,,Williamsport,PA,17701,Lycoming,Pennsylvania,42,81,42081,31,31,0,0,0,0.46663719,0,1
+-80.087592,42.1229954,4576,Select Specialty Hospital - Erie,Long Term Acute Care Hospital,252 W 11th St,,Erie,PA,16501,Erie,Pennsylvania,42,49,42049,50,50,9,9,0,0.45375341,0,4
+-80.3210162,40.7121317,4591,CuraHealth Hospital - Heritage Valley (FKA Kindred Hospital Heritage Valley),Long Term Acute Care Hospital,1000 Dutch Ridge Rd,,Beaver,PA,15009,Beaver,Pennsylvania,42,7,42007,35,35,5,5,0,0.42129159,0,2
+-75.2217431,40.0434701,4596,Fairmount Behavioral Health System (FKA Fairmount Hospital),Psychiatric Hospital,561 Fairthorne Ave,,Philadelphia,PA,19128,Philadelphia,Pennsylvania,42,101,42101,239,172,1,1,0,0.87644154,67,1
+-77.7541291,40.8628713,4617,Encompass Health Rehabilitation Hospital of Nittany Valley (FKA Healthsouth Nittany Valley Rehabilitation Hospital),Rehabilitation Hospital,550 W College Ave,,Pleasant Gap,PA,16823,Centre,Pennsylvania,42,27,42027,73,73,0,0,0,0.54490525,0,1
+-75.7429196,41.477517,4688,Clarks Summit State Hospital,Psychiatric Hospital,1451 Hillside Dr,,Clarks Summit,PA,18411,Lackawanna,Pennsylvania,42,69,42069,203,203,0,0,0,0.78727311,0,0
+-80.160768,40.585817,4690,Encompass Health Rehabilitation Hospital of Sewickley (FKA HealthSouth Rehabilitation Hospital of Sewickley),Rehabilitation Hospital,351 Campmeeting Rd,,Sewickley,PA,15143,Allegheny,Pennsylvania,42,3,42003,44,44,0,0,0,0.93132007,0,0
+-75.612948,40.6478969,4700,KidsPeace Childrens Hospital - Kidspeace Orchard Hills Campus,Psychiatric Hospital,5300 Kidspeace Dr,,Orefield,PA,18069,Lehigh,Pennsylvania,42,77,42077,120,120,0,0,,,0,0
+-79.2169174,40.3986385,4767,Torrance State Hospital,Psychiatric Hospital,121 Longview Dr,,Torrance,PA,15779,Westmoreland,Pennsylvania,42,129,42129,362,353,0,0,0,0.67821842,9,0
+-76.974106,40.211054,4785,Encompass Health Rehabilitation Hospital of Mechanicsburg (FKA HealthSouth Rehabilitation Hospital of Mechanicsburg),Rehabilitation Hospital,175 Lancaster Blvd,,Mechanicsburg,PA,17055,Cumberland,Pennsylvania,42,41,42041,75,75,0,0,0,0.66578996,0,0
+-75.6733718,41.4474484,4844,Allied Rehab Hospital (FKA Allied Services Rehab Hospital),Rehabilitation Hospital,475 Morgan Hwy,,Scranton,PA,18508,Lackawanna,Pennsylvania,42,69,42069,82,82,0,0,0,0.38640159,0,0
+-75.165439,39.9567705,4845,Magee Rehabilitation Hospital,Rehabilitation Hospital,1513 Race St,,Philadelphia,PA,19102,Philadelphia,Pennsylvania,42,101,42101,80,96,0,0,0,0.81069136,-16,0
+-79.8716532,40.5506588,4863,Encompass Health Rehabilitation Hospital of Harmarville (FKA HealthSouth Harmarville Rehabilitation Hospital),Rehabilitation Hospital,320 Guys Run Rd,,Pittsburgh,PA,15238,Allegheny,Pennsylvania,42,3,42003,162,162,0,0,0,0.31804499,0,0
+-75.4647409,40.593185,4874,Good Shepherd Rehabilitation Hospital - Allentown,Rehabilitation Hospital,850 S 5th St,,Allentown,PA,18103,Lehigh,Pennsylvania,42,77,42077,106,106,1,1,0,0.66092014,0,2
+-75.925003,40.2885317,4876,Encompass Health Rehabilitation Hospital of Reading (FKA HealthSouth Reading Rehabilitation Hospital),Rehabilitation Hospital,1623 Morgantown Rd,,Reading,PA,19607,Berks,Pennsylvania,42,11,42011,60,52,0,0,0,0.67550904,8,0
+-75.3442392,40.1316166,4892,Norristown State Hospital,Psychiatric Hospital,1001 Sterigere St,,Norristown,PA,19401,Montgomery,Pennsylvania,42,91,42091,309,363,0,0,0,0.88333708,-54,0
+-75.2184789,39.9617037,4921,Kirkbride Center,Psychiatric Hospital,111 N 49th St,,Philadelphia,PA,19139,Philadelphia,Pennsylvania,42,101,42101,25,25,238,238,0,0.89244473,0,0
+-76.3516991,40.0622559,4927,Lancaster Rehabilitation Hospital,Rehabilitation Hospital,675 Good Dr,,Lancaster,PA,17601,Lancaster,Pennsylvania,42,71,42071,59,59,0,0,0,0.82303226,0,0
+-76.781152,39.980599,4961,Encompass Health Rehabilitation Hospital of York (FKA HealthSouth Rehabilitation Hospital of York),Rehabilitation Hospital,1850 Normandie Dr,,York,PA,17408,York,Pennsylvania,42,133,42133,90,90,0,0,0,0.54593605,0,0
+-75.2147184,39.999791,4983,Belmont Behavioral Hospital,Psychiatric Hospital,4200 Monument Rd,,Philadelphia,PA,19131,Philadelphia,Pennsylvania,42,101,42101,171,171,0,0,0,0.94497716,0,0
+-78.3920511,40.4980292,5001,Encompass Health Rehabilitation Hospital of Altoona (FKA Healthsouth Rehabilitation Hospital of Altoona),Rehabilitation Hospital,2005 Valley View Blvd,,Altoona,PA,16602,Blair,Pennsylvania,42,13,42013,80,80,0,0,0,0.80952054,0,0
+-76.9225545,40.2501631,5028,Select Specialty Hospital - Camp Hill,Long Term Acute Care Hospital,503 N 21st St,5th Floor,Camp Hill,PA,17011,Cumberland,Pennsylvania,42,41,42041,31,92,12,12,0,0.77742702,-61,6
+-75.5298232,40.0106688,5040,Bryn Mawr Rehab Hospital,Rehabilitation Hospital,414 Paoli Pike,,Malvern,PA,19355,Chester,Pennsylvania,42,29,42029,148,148,0,0,0,0.5709182,0,0
+-76.5993572,40.971355,5101,Geisinger Encompass Health Rehabilitation Hospital (FKA Geisinger HealthSouth Rehabilitation Hospital),Rehabilitation Hospital,64 Rehab Ln,,Danville,PA,17821,Montour,Pennsylvania,42,93,42093,42,42,0,0,0,0.66549248,0,0
+-79.9608648,40.4429556,5143,Select Specialty Hospital - Pittsburgh UPMC,Long Term Acute Care Hospital,200 Lothrop St,Muh E824,Pittsburgh,PA,15213,Allegheny,Pennsylvania,42,3,42003,32,32,5,5,0,0.71121573,0,2
+-78.9209566,40.3259292,5145,Select Specialty Hospital - Johnstown,Long Term Acute Care Hospital,320 Main St,3rd Floor,Johnstown,PA,15901,Cambria,Pennsylvania,42,21,42021,39,39,7,7,0,0.65407038,0,3
+-77.736821,41.327927,5153,Bucktail Medical Center,Critical Access Hospital,1001 Pine St,,Renovo,PA,17764,Clinton,Pennsylvania,42,35,42035,16,16,3,3,0,0.12140411,0,0
+-75.1497912,39.9708289,5183,Girard Medical Center,Short Term Acute Care Hospital,801 W Girard Ave,,Philadelphia,PA,19122,Philadelphia,Pennsylvania,42,101,42101,51,51,9,9,,0.78269988,0,0
+-78.2521912,40.6746333,5184,Tyrone Regional Health (FKA Tyrone Hospital),Critical Access Hospital,187 Hospital Dr,,Tyrone,PA,16686,Blair,Pennsylvania,42,13,42013,25,25,5,5,0,0.13589041,0,1
+-77.7125997,40.8106495,5204,The Meadows Psychiatric Center,Psychiatric Hospital,132 The Meadows Dr,,Centre Hall,PA,16828,Centre,Pennsylvania,42,27,42027,119,111,0,0,0,0.87853879,8,0
+-75.0970217,40.0460482,5252,Kindred Hospital - Philadelphia,Long Term Acute Care Hospital,6129 Palmetto St,,Philadelphia,PA,19111,Philadelphia,Pennsylvania,42,101,42101,52,52,6,6,0,0.45806208,0,4
+-75.2157259,40.1346782,5255,Brooke Glen Behavioral Hospital,Psychiatric Hospital,7170 Lafayette Ave,,Fort Washington,PA,19034,Montgomery,Pennsylvania,42,91,42091,146,146,2,2,0,0.91551888,0,2
+-75.4086839,40.644903,5292,Good Shepherd Specialty Hospital,Long Term Acute Care Hospital,2545 Schoenersville Rd,3rd and 4th Floors,Bethlehem,PA,18017,Lehigh,Pennsylvania,42,77,42077,32,32,5,5,0,0.86429793,0,3
+-75.3516489,40.1279873,5300,Montgomery County Emergency Service,Psychiatric Hospital,50 Beech Dr,Suite 3005,Norristown,PA,19401,Montgomery,Pennsylvania,42,91,42091,81,73,0,0,0,0.67352223,8,0
+-75.8542779,41.2462835,5372,Heinz Rehab Hospital (FKA John Heinz Institute of Rehab Medicine),Rehabilitation Hospital,150 Mundy St,,Wilkes Barre,PA,18702,Luzerne,Pennsylvania,42,79,42079,47,47,0,0,0,0.46348003,0,0
+-80.0843133,42.1340504,5409,Encompass Health Rehabilitation Hospital of Erie (FKA HealthSouth Rehabilitation Hospital of Erie),Rehabilitation Hospital,143 E 2nd St,,Erie,PA,16507,Erie,Pennsylvania,42,49,42049,108,100,0,0,0,0.40367123,8,0
+-75.1558372,40.3013344,5416,Foundations Behavioral Health,Psychiatric Hospital,833 E Butler Ave,,Doylestown,PA,18901,Bucks,Pennsylvania,42,17,42017,60,,0,0,,,60,0
+-76.5955367,40.9488679,5420,Danville State Hospital,Psychiatric Hospital,50 Kirkbride Dr,,Danville,PA,17821,Montour,Pennsylvania,42,93,42093,161,161,0,0,0,0.96263081,0,0
+-76.687593,40.2727073,5426,Penn State Hershey Rehabilitation Hospital,Rehabilitation Hospital,1135 Olde W Chocolate Ave,,Hummelstown,PA,17036,Dauphin,Pennsylvania,42,43,42043,76,76,0,0,0,0.6648522,0,0
+-77.537116,40.055301,5435,Roxbury Treatment Center (FKA Roxbury Psychiatric Hospital),Psychiatric Hospital,601 Roxbury Rd,,Shippensburg,PA,17257,Franklin,Pennsylvania,42,55,42055,112,112,60,60,0,0.88691294,0,0
+-75.5905,41.9298,5443,Barnes Kasson County Hospital,Critical Access Hospital,2872 Turnpike St,,Susquehanna,PA,18847,Susquehanna,Pennsylvania,42,115,42115,25,25,4,4,0,0.30476713,0,0
+-79.3980263,41.1936179,5471,Clarion Psychiatric Center (FKA Clarion Psychiatric Hospital),Psychiatric Hospital,2 Hospital Dr,,Clarion,PA,16214,Clarion,Pennsylvania,42,31,42031,112,112,0,0,0,0.78608137,0,0
+-79.394545,40.3210967,5530,Select Specialty Hospital - Laurel Highlands,Long Term Acute Care Hospital,1 Mellon Way,3rd Fl,Latrobe,PA,15650,Westmoreland,Pennsylvania,42,129,42129,40,40,6,6,0,0.50054795,0,3
+-76.1060364,40.3304515,5531,Wernersville State Hospital,Psychiatric Hospital,160 Main St,,Wernersville,PA,19565,Berks,Pennsylvania,42,11,42011,266,266,0,0,0,0.91275108,0,0
+-79.8490186,40.3510349,5537,Select Specialty Hospital - McKeesport,Long Term Acute Care Hospital,1500 5th Ave,Crawford Bldg 6th Fl,McKeesport,PA,15132,Allegheny,Pennsylvania,42,3,42003,30,30,6,6,0,0.60356164,0,2
+-75.1893052,40.1875206,5545,The Horsham Clinic,Psychiatric Hospital,722 E Butler Pike,,Ambler,PA,19002,Montgomery,Pennsylvania,42,91,42091,206,206,0,0,0,0.89994681,0,0
+-79.9602689,40.4439509,5577,UPMC Western Psychiatric Hospital,Psychiatric Hospital,3811 Ohara St,,Pittsburgh,PA,15213,Allegheny,Pennsylvania,42,3,42003,,,0,0,,,0,0
+-75.5106962,40.0078481,5584,Devereux Childrens Behavioral Health Center - Mapleton Programs,Psychiatric Hospital,655 Sugartown Rd,,Malvern,PA,19355,Chester,Pennsylvania,42,29,42029,49,49,0,0,,,0,0
+-74.9832205,40.0716695,5595,Jefferson Torresdale Hospital,Short Term Acute Care Hospital,10800 Knights Rd,,Philadelphia,PA,19114,Philadelphia,Pennsylvania,42,101,42101,464,252,44,44,0,0.65284628,212,14
+-75.1513111,40.0071847,5632,Shriners Hospitals for Children - Philadelphia,Childrens Hospital,3551 N Broad St,,Philadelphia,PA,19140,Philadelphia,Pennsylvania,42,101,42101,49,49,19,19,,,0,1
+-79.9412415,40.8886027,5653,Butler VA Health Care System (FKA VA Butler Medical Center),VA Hospital,353 N Duffy Rd,,Butler,PA,16001,Butler,Pennsylvania,42,19,42019,126,126,0,0,,,0,0
+-80.1126248,40.3211951,5682,Southwood Psychiatric Hospital,Psychiatric Hospital,2575 Boyce Plaza Rd,,Pittsburgh,PA,15241,Allegheny,Pennsylvania,42,3,42003,68,60,0,0,,,8,0
+-75.2930475,40.6476369,5720,St Lukes Anderson Campus,Short Term Acute Care Hospital,1872 St Lukes Blvd,,Easton,PA,18045,Northampton,Pennsylvania,42,95,42095,108,108,12,12,0,0.67848808,0,4
+-75.9254567,40.3379458,5751,Haven Behavioral Hospital of Eastern Pennsylvania,Psychiatric Hospital,145 N 6th St,3rd Floor,Reading,PA,19601,Berks,Pennsylvania,42,11,42011,67,67,0,0,0,0.95031691,0,0
+-80.2790841,40.1565061,5752,Advanced Surgical Hospital,Short Term Acute Care Hospital,100 Trich Dr,Suite 1,Washington,PA,15301,Washington,Pennsylvania,42,125,42125,14,14,2,2,0,0.28003913,0,0
+-79.759418,40.437818,5755,UPMC East,Short Term Acute Care Hospital,2775 Mosside Blvd,,Monroeville,PA,15146,Allegheny,Pennsylvania,42,3,42003,155,136,8,8,0,0.75497293,19,2
+-76.7190417,39.9263619,5762,Wellspan Surgery & Rehabilitation Hospital,Short Term Acute Care Hospital,55 Monument Rd,,York,PA,17403,York,Pennsylvania,42,133,42133,73,25,4,4,0,0.17534247,48,2
+-75.3336972,39.9752293,5768,Kindred Hospital Philadelphia - Havertown,Long Term Acute Care Hospital,2000 Old West Chester Pike,,Havertown,PA,19083,Delaware,Pennsylvania,42,45,42045,57,57,9,9,,,0,2
+-77.037409,40.258185,5771,UPMC Pinnacle West Shore (FKA West Shore Hospital),Short Term Acute Care Hospital,1995 Technology Pkwy,,Mechanicsburg,PA,17050,Cumberland,Pennsylvania,42,41,42041,102,102,18,18,,,0,0
+-79.888479,40.4942326,5781,VA Pittsburgh Healthcare System - HJ Heinz Campus (AKA H John Heinz III Department of Veterans Affairs Medical Center),VA Hospital,1010 Delafield Rd,,Pittsburgh,PA,15215,Allegheny,Pennsylvania,42,3,42003,358,358,0,0,,,0,0
+-76.6955585,39.9168769,5863,Orthopaedic and Spine Specialists Orthopaedic Hospital,Short Term Acute Care Hospital,1861 Powder Mill Rd,,York,PA,17402,York,Pennsylvania,42,133,42133,26,30,5,5,0,0.30246577,-4,0
+-75.5535312,40.2157319,5864,Physicians Care Surgical Hospital,Short Term Acute Care Hospital,454 Enterprise Dr,,Royersford,PA,19468,Montgomery,Pennsylvania,42,91,42091,12,12,2,2,0,0.40799087,0,0
+-76.8982173,40.2863223,5894,Pennsylvania Psychiatric Institute,Psychiatric Hospital,2501 N 3rd St,,Harrisburg,PA,17110,Dauphin,Pennsylvania,42,43,42043,89,89,0,0,0,0.76967829,0,0
+-75.6833269,40.0119964,5964,Saint John Vianney Center,Psychiatric Hospital,151 Woodbine Rd,,Downingtown,PA,19335,Chester,Pennsylvania,42,29,42029,50,50,0,0,,,0,0
+-75.5435356,40.0288617,6013,Malvern Institute - Malvern Addiction Treatment Center,Short Term Acute Care Hospital,940 W King Rd,,Malvern,PA,19355,Chester,Pennsylvania,42,29,42029,80,80,14,14,,,0,0
+-79.736921,40.618767,6017,Select Specialty Hospital - Alle Kiski (FKA LifeCare Hospitals of Pittsburgh - Alle-Kiski Campus),Long Term Acute Care Hospital,1301 Carlisle St,1st Floor,Natrona Heights,PA,15065,Allegheny,Pennsylvania,42,3,42003,35,35,6,6,,0.3514677,0,0
+-75.1551375,39.9480211,6063,Wills Eye Hospital,Short Term Acute Care Hospital,840 Walnut St,Suite 700,Philadelphia,PA,19107,Philadelphia,Pennsylvania,42,101,42101,4,4,1,1,0,0.52465755,0,0
+-75.18453,40.0117317,6079,Haven Behavioral Hospital of Philadelphia,Psychiatric Hospital,3301 Scotts Ln,,Philadelphia,PA,19129,Philadelphia,Pennsylvania,42,101,42101,67,36,0,0,0,0.87245053,31,0
+-75.26,40.9974,6134,St Lukes Monroe Campus,Short Term Acute Care Hospital,100 St Lukes Ln,,Stroudsburg,PA,18360,Monroe,Pennsylvania,42,89,42089,90,90,12,12,0,0.74834096,0,3
+-76.8172855,40.2842662,6158,Helen M Simpson Rehabilitation Hospital,Rehabilitation Hospital,4300 Londonderry Rd,,Harrisburg,PA,17109,Dauphin,Pennsylvania,42,43,42043,55,55,0,0,0,0.71551681,0,0
+-74.92468,40.17532,6168,St Mary Rehabilitation Hospital,Rehabilitation Hospital,1208 Newtown-Langhorne Rd,,Langhorne,PA,19047,Bucks,Pennsylvania,42,17,42017,50,50,0,0,0,0.79731506,0,0
+-79.8919462,40.4468129,6311,LifeCare Behavioral Health Hospital of Pittsburgh,Psychiatric Hospital,225 Penn Ave,2nd Floor,Pittsburgh,PA,15221,Allegheny,Pennsylvania,42,3,42003,80,49,0,0,0,0.64679372,31,1
+-76.315695,40.050079,6322,Lancaster Behavioral Health Hospital,Psychiatric Hospital,333 Harrisburg Ave,,Lancaster,PA,17603,Lancaster,Pennsylvania,42,71,42071,126,126,0,0,0,0.32359058,0,0
+-74.8849767,40.1809565,6364,Capital Health at Oxford Valley (FKA Forest Health Medical Center - Bucks County),Short Term Acute Care Hospital,280 Middletown Blvd,,Langhorne,PA,19047,Bucks,Pennsylvania,42,17,42017,,,32,32,,,0,0
+-75.1269483,40.1526706,6365,Malvern Institute - Willow Grove Addiction Treatment Center,Short Term Acute Care Hospital,240 Fitzwatertown Rd,,Willow Grove,PA,19090,Montgomery,Pennsylvania,42,91,42091,90,90,16,16,,,0,0
+-75.8677,41.2565,6433,PAM Specialty Hospital of Wilkes-Barre,Long Term Acute Care Hospital,575 N River St,7th Floor,Wilkes Barre,PA,18764,Luzerne,Pennsylvania,42,79,42079,36,36,6,6,0,0.51613396,0,2
+-79.547947,40.348508,6475,AHN Hempfield Neighborhood Hospital,Short Term Acute Care Hospital,6321 Route 30,,Greensburg,PA,15601,Westmoreland,Pennsylvania,42,129,42129,,,32,32,,,0,0
+-79.9841788,40.3757173,6476,AHN Brentwood Neighborhood Hospital,Short Term Acute Care Hospital,3290 Saw Mill Run Blvd,,Brentwood,PA,15227,Allegheny,Pennsylvania,42,3,42003,,,0,0,,,0,0
+-80.017329,40.565404,6486,AHN McCandless Neighborhood Hospital,Short Term Acute Care Hospital,8950 Duncan Ave,,Pittsburgh,PA,15237,Allegheny,Pennsylvania,42,3,42003,10,10,0,0,,,0,0
+-75.3357975,40.4401488,6517,St Lukes Upper Bucks Campus,Short Term Acute Care Hospital,3000 St Lukes Dr,,Quakertown,PA,18951,Bucks,Pennsylvania,42,17,42017,,,32,32,,,0,0
+-76.066554,40.642939,6528,Geisinger St Lukes Hospital,Short Term Acute Care Hospital,100 Paramount Blvd,,Orwigsburg,PA,17961,Schuylkill,Pennsylvania,42,107,42107,,,32,32,,,0,0
+-75.1585544,39.9798791,6579,The Liacouras Center Field Hospital (Temporarily Open due to COVID-19),Short Term Acute Care Hospital,1776 N Broad St,,Philadelphia,PA,19121,Philadelphia,Pennsylvania,42,101,42101,,,0,0,,,0,0
+-75.9725647,40.37457275,6617,Tower Behavioral Health,Psychiatric Hospital,201 Wellness Way,,Reading,PA,19605,Berks,Pennsylvania,42,11,42011,,,0,0,,,0,0
