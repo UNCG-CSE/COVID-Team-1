@@ -3,6 +3,6 @@ __pycache__/
 venv/
 venv
 .idea/
-src/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
 src/import_ipynb.py
 
