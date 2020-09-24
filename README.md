@@ -13,6 +13,7 @@ An end to end analytical model of covid 19 data gathered from the dataset at usa
 
 ## Technologies
 Python 3.7.4
+
 [Required](requirements.txt)
 
 ## Features
