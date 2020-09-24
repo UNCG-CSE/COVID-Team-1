@@ -25,6 +25,6 @@ Christopher Brantley
 
 Andrew Kawabata
 
-Katelynn Urgitus
+**Katelynn Urgitus
 
-***"I am a senior Computer Science major with a concentration in Data Science. I fell in love with data after I took a class in Machine Learning. I have always loved math and statistics, so I figured computer science would be a good field for me. Aside from school, I enjoy playing with my dog, Joel, and improving my art skills."***
+*"I am a senior Computer Science major with a concentration in Data Science. I fell in love with data after I took a class in Machine Learning. I have always loved math and statistics, so I figured computer science would be a good field for me. Aside from school, I enjoy playing with my dog, Joel, and improving my art skills."*
