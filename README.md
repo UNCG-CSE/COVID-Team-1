@@ -23,6 +23,8 @@ Python 3.7.4
 ## About the Team
 **Christopher Brantley**
 
+*"Christopher is a senior in the Computer Science program with a concentration in Data Science and is minoring in mathematics. He has been studying programming for five years. He enjoys persuing good software design, playing with web design, and learning the features of languages. He plans to graduate in the spring of 2021 and join the graduate program in Fall 2021. In his free time Christopher enjoys hiking, playing the guitar, and reading.
+
 **Andrew Kawabata**
 
 **Katelynn Urgitus**
