@@ -1,0 +1,258 @@
+County Name,cases,deaths,population,HOSPITAL_NAME,HOSPITAL_TYPE,NUM_LICENSED_BEDS,NUM_STAFFED_BEDS,NUM_ICU_BEDS,ADULT_ICU_BEDS,PEDI_ICU_BEDS,BED_UTILIZATION,Potential_Increase_In_Bed_Capac,AVG_VENTILATOR_USAGE
+Adams County,758,25,103009,Wellspan Gettysburg Hospital,Short Term Acute Care Hospital,76,76,8,8,0,0.58175921,0,4
+Allegheny County,11431,341,1216045,VA Pittsburgh Healthcare System - University Drive,VA Hospital,146,146,2,2,,,0,2
+Allegheny County,11431,341,1216045,West Penn Hospital,Short Term Acute Care Hospital,338,260,48,48,68,0.73610955,78,5
+Allegheny County,11431,341,1216045,UPMC St Margaret,Short Term Acute Care Hospital,250,222,14,14,0,0.54156905,28,2
+Allegheny County,11431,341,1216045,UPMC Passavant - McCandless,Short Term Acute Care Hospital,423,365,32,32,0,0.53932297,58,3
+Allegheny County,11431,341,1216045,UPMC Magee-Womens Hospital,Short Term Acute Care Hospital,363,315,18,18,77,0.6774019,48,2
+Allegheny County,11431,341,1216045,Heritage Valley Kennedy (FKA Ohio Valley General Hospital),Short Term Acute Care Hospital,124,87,27,27,0,0.29755944,37,2
+Allegheny County,11431,341,1216045,UPMC Presbyterian,Short Term Acute Care Hospital,1542,1175,160,160,0,0.77006912,367,20
+Allegheny County,11431,341,1216045,St Clair Memorial Hospital (FKA St Clair Hospital),Short Term Acute Care Hospital,329,303,12,12,5,0.49107102,26,4
+Allegheny County,11431,341,1216045,Forbes Hospital,Short Term Acute Care Hospital,315,234,56,56,4,0.67651331,81,6
+Allegheny County,11431,341,1216045,Jefferson Hospital (FKA Jefferson Regional Medical Center),Short Term Acute Care Hospital,341,289,20,20,0,0.47252217,52,3
+Allegheny County,11431,341,1216045,UPMC Childrens Hospital of Pittsburgh,Childrens Hospital,312,315,36,36,55,0.7383123,-3,2
+Allegheny County,11431,341,1216045,UPMC McKeesport,Short Term Acute Care Hospital,195,186,33,33,0,0.63940287,9,2
+Allegheny County,11431,341,1216045,UPMC Mercy,Short Term Acute Care Hospital,446,369,29,29,9,0.64726555,77,6
+Allegheny County,11431,341,1216045,Allegheny Valley Hospital,Short Term Acute Care Hospital,190,143,16,16,0,0.26272631,47,2
+Allegheny County,11431,341,1216045,Heritage Valley Sewickley,Short Term Acute Care Hospital,176,116,12,12,0,0.5216344,60,2
+Allegheny County,11431,341,1216045,Allegheny General Hospital,Short Term Acute Care Hospital,552,552,76,76,0,0.70079315,0,15
+Allegheny County,11431,341,1216045,CuraHealth Hospital - Pittsburgh (FKA Kindred Hospital Pittsburgh),Long Term Acute Care Hospital,63,63,10,10,0,0.19108503,0,2
+Allegheny County,11431,341,1216045,Childrens Home of Pittsburgh,Childrens Hospital,30,30,12,12,,,0,1
+Allegheny County,11431,341,1216045,Encompass Health Rehabilitation Hospital of Sewickley (FKA HealthSouth Rehabilitation Hospital of Sewickley),Rehabilitation Hospital,44,44,0,0,0,0.93132007,0,0
+Allegheny County,11431,341,1216045,Encompass Health Rehabilitation Hospital of Harmarville (FKA HealthSouth Harmarville Rehabilitation Hospital),Rehabilitation Hospital,162,162,0,0,0,0.31804499,0,0
+Allegheny County,11431,341,1216045,Select Specialty Hospital - Pittsburgh UPMC,Long Term Acute Care Hospital,32,32,5,5,0,0.71121573,0,2
+Allegheny County,11431,341,1216045,Select Specialty Hospital - McKeesport,Long Term Acute Care Hospital,30,30,6,6,0,0.60356164,0,2
+Allegheny County,11431,341,1216045,UPMC Western Psychiatric Hospital,Psychiatric Hospital,,,0,0,,,0,0
+Allegheny County,11431,341,1216045,Southwood Psychiatric Hospital,Psychiatric Hospital,68,60,0,0,,,8,0
+Allegheny County,11431,341,1216045,UPMC East,Short Term Acute Care Hospital,155,136,8,8,0,0.75497293,19,2
+Allegheny County,11431,341,1216045,VA Pittsburgh Healthcare System - HJ Heinz Campus (AKA H John Heinz III Department of Veterans Affairs Medical Center),VA Hospital,358,358,0,0,,,0,0
+Allegheny County,11431,341,1216045,Select Specialty Hospital - Alle Kiski (FKA LifeCare Hospitals of Pittsburgh - Alle-Kiski Campus),Long Term Acute Care Hospital,35,35,6,6,,0.3514677,0,0
+Allegheny County,11431,341,1216045,LifeCare Behavioral Health Hospital of Pittsburgh,Psychiatric Hospital,80,49,0,0,0,0.64679372,31,1
+Allegheny County,11431,341,1216045,AHN Brentwood Neighborhood Hospital,Short Term Acute Care Hospital,,,0,0,,,0,0
+Allegheny County,11431,341,1216045,AHN McCandless Neighborhood Hospital,Short Term Acute Care Hospital,10,10,0,0,,,0,0
+Armstrong County,394,15,64735,Armstrong County Memorial Hospital (AKA ACMH Hospital),Short Term Acute Care Hospital,147,131,12,12,0,0.30776954,16,2
+Beaver County,1804,110,163929,Heritage Valley Beaver,Short Term Acute Care Hospital,285,194,20,20,0,0.59807938,91,3
+Beaver County,1804,110,163929,CuraHealth Hospital - Heritage Valley (FKA Kindred Hospital Heritage Valley),Long Term Acute Care Hospital,35,35,5,5,0,0.42129159,0,2
+Bedford County,219,6,47888,UPMC Bedford,Short Term Acute Care Hospital,40,40,4,4,0,0.27564687,0,2
+Berks County,6700,386,421164,Penn State Health St Joseph Medical Center - Main Campus,Short Term Acute Care Hospital,204,180,30,30,6,0.56988025,24,4
+Berks County,6700,386,421164,Surgical Institute of Reading,Short Term Acute Care Hospital,15,15,3,3,0,0.2913242,0,0
+Berks County,6700,386,421164,Reading Hospital,Short Term Acute Care Hospital,714,562,41,41,30,0.66589969,152,8
+Berks County,6700,386,421164,Encompass Health Rehabilitation Hospital of Reading (FKA HealthSouth Reading Rehabilitation Hospital),Rehabilitation Hospital,60,52,0,0,0,0.67550904,8,0
+Berks County,6700,386,421164,Wernersville State Hospital,Psychiatric Hospital,266,266,0,0,0,0.91275108,0,0
+Berks County,6700,386,421164,Haven Behavioral Hospital of Eastern Pennsylvania,Psychiatric Hospital,67,67,0,0,0,0.95031691,0,0
+Berks County,6700,386,421164,Tower Behavioral Health,Psychiatric Hospital,,,0,0,,,0,0
+Blair County,537,13,121829,Conemaugh Health System - Conemaugh Nason Medical Center (FKA Nason Hospital),Short Term Acute Care Hospital,45,45,4,4,0,0.2524201,0,2
+Blair County,537,13,121829,James E Van Zandt VA Medical Center (AKA Altoona VA Medical Center),VA Hospital,58,58,0,0,,,0,1
+Blair County,537,13,121829,UPMC Altoona,Short Term Acute Care Hospital,368,346,33,33,0,0.70169443,22,8
+Blair County,537,13,121829,Encompass Health Rehabilitation Hospital of Altoona (FKA Healthsouth Rehabilitation Hospital of Altoona),Rehabilitation Hospital,80,80,0,0,0,0.80952054,0,0
+Blair County,537,13,121829,Tyrone Regional Health (FKA Tyrone Hospital),Critical Access Hospital,25,25,5,5,0,0.13589041,0,1
+Bradford County,116,3,60323,Guthrie Robert Packer Hospital,Short Term Acute Care Hospital,254,250,38,38,0,0.70406598,4,11
+Bradford County,116,3,60323,Guthrie Troy Community Hospital,Critical Access Hospital,25,25,4,4,0,0.70542467,0,2
+Bradford County,116,3,60323,Guthrie Towanda Memorial Hospital (AKA Memorial Hospital Inc of Towanda),Short Term Acute Care Hospital,35,35,4,4,0,0.27162427,0,2
+Bucks County,8359,596,628270,St Mary Medical Center,Short Term Acute Care Hospital,373,348,41,41,6,0.64200127,25,13
+Bucks County,8359,596,628270,Doylestown Hospital (AKA Doylestown Health),Short Term Acute Care Hospital,217,217,21,21,4,0.63358372,0,10
+Bucks County,8359,596,628270,Rothman Orthopaedic Specialty Hospital,Short Term Acute Care Hospital,24,24,4,4,0,0.30285388,0,0
+Bucks County,8359,596,628270,Lower Bucks Hospital,Short Term Acute Care Hospital,175,130,22,22,0,0.27093783,45,4
+Bucks County,8359,596,628270,St Lukes Quakertown Campus,Short Term Acute Care Hospital,62,62,11,11,0,0.70428634,0,2
+Bucks County,8359,596,628270,Grand View Hospital (AKA Grand View Health),Short Term Acute Care Hospital,176,162,20,20,0,0.45635042,14,4
+Bucks County,8359,596,628270,Foundations Behavioral Health,Psychiatric Hospital,60,,0,0,,,60,0
+Bucks County,8359,596,628270,St Mary Rehabilitation Hospital,Rehabilitation Hospital,50,50,0,0,0,0.79731506,0,0
+Bucks County,8359,596,628270,Capital Health at Oxford Valley (FKA Forest Health Medical Center - Bucks County),Short Term Acute Care Hospital,,,32,32,,,0,0
+Bucks County,8359,596,628270,St Lukes Upper Bucks Campus,Short Term Acute Care Hospital,,,32,32,,,0,0
+Butler County,956,22,187853,Butler Memorial Hospital,Short Term Acute Care Hospital,296,266,35,35,0,0.55685449,30,3
+Butler County,956,22,187853,Butler VA Health Care System (FKA VA Butler Medical Center),VA Hospital,126,126,0,0,,,0,0
+Cambria County,528,7,130192,Conemaugh Health System - Conemaugh Miners Medical Center,Short Term Acute Care Hospital,30,30,5,5,0,0.16484018,0,2
+Cambria County,528,7,130192,Conemaugh Health System - Conemaugh Memorial Medical Center Main Campus,Short Term Acute Care Hospital,468,354,14,14,16,0.58922684,114,13
+Cambria County,528,7,130192,Select Specialty Hospital - Johnstown,Long Term Acute Care Hospital,39,39,7,7,0,0.65407038,0,3
+Cameron County,8,0,4447,,,,,,,,,,
+Carbon County,439,28,64182,St Lukes Lehighton Campus (FKA Gnaden Huetten Memorial Hospital),Short Term Acute Care Hospital,159,68,6,6,0,0.50737309,91,3
+Centre County,1508,11,162385,Mount Nittany Medical Center,Short Term Acute Care Hospital,260,248,43,43,0,0.49328324,12,4
+Centre County,1508,11,162385,Encompass Health Rehabilitation Hospital of Nittany Valley (FKA Healthsouth Nittany Valley Rehabilitation Hospital),Rehabilitation Hospital,73,73,0,0,0,0.54490525,0,1
+Centre County,1508,11,162385,The Meadows Psychiatric Center,Psychiatric Hospital,119,111,0,0,0,0.87853879,8,0
+Chester County,6362,357,524989,Jennersville Hospital,Short Term Acute Care Hospital,63,53,10,10,0,0.36319461,10,2
+Chester County,6362,357,524989,Brandywine Hospital,Short Term Acute Care Hospital,171,155,27,27,0,0.56365883,16,3
+Chester County,6362,357,524989,Phoenixville Hospital,Short Term Acute Care Hospital,139,123,9,9,4,0.53888434,16,5
+Chester County,6362,357,524989,Chester County Hospital,Short Term Acute Care Hospital,244,244,14,14,14,0.5875718,0,10
+Chester County,6362,357,524989,Paoli Hospital,Short Term Acute Care Hospital,231,231,30,30,0,0.60904938,0,4
+Chester County,6362,357,524989,Coatesville VA Medical Center,VA Hospital,302,302,1,1,,,0,1
+Chester County,6362,357,524989,Bryn Mawr Rehab Hospital,Rehabilitation Hospital,148,148,0,0,0,0.5709182,0,0
+Chester County,6362,357,524989,Devereux Childrens Behavioral Health Center - Mapleton Programs,Psychiatric Hospital,49,49,0,0,,,0,0
+Chester County,6362,357,524989,Saint John Vianney Center,Psychiatric Hospital,50,50,0,0,,,0,0
+Chester County,6362,357,524989,Malvern Institute - Malvern Addiction Treatment Center,Short Term Acute Care Hospital,80,80,14,14,,,0,0
+Clarion County,112,3,38438,Clarion Hospital,Short Term Acute Care Hospital,70,57,7,7,0,0.26878154,13,2
+Clarion County,112,3,38438,Clarion Psychiatric Center (FKA Clarion Psychiatric Hospital),Psychiatric Hospital,112,112,0,0,0,0.78608137,0,0
+Clearfield County,292,1,79255,Penn Highlands DuBois,Short Term Acute Care Hospital,216,201,15,15,16,0.57651466,15,8
+Clearfield County,292,1,79255,Penn Highlands Clearfield,Short Term Acute Care Hospital,50,40,7,7,0,0.32712328,10,2
+Clinton County,176,5,38632,UPMC Lock Haven (FKA UPMC Susquehanna Lock Haven),Short Term Acute Care Hospital,47,47,8,8,0,0.16531624,0,2
+Clinton County,176,5,38632,Bucktail Medical Center,Critical Access Hospital,16,16,3,3,0,0.12140411,0,0
+Columbia County,847,35,64964,Berwick Hospital Center,Short Term Acute Care Hospital,90,87,10,10,0,0.085498348,3,2
+Columbia County,847,35,64964,Geisinger Bloomsburg Hospital,Short Term Acute Care Hospital,76,56,12,12,0,0.17871819,20,2
+Crawford County,263,3,84629,Meadville Medical Center,Short Term Acute Care Hospital,258,145,12,12,0,0.41664621,113,2
+Crawford County,263,3,84629,Titusville Area Hospital,Critical Access Hospital,25,25,4,4,0,0.52767122,0,2
+Cumberland County,1701,73,253370,Geisinger Holy Spirit (FKA Holy Spirit Hospital),Short Term Acute Care Hospital,310,277,21,21,5,0.43118539,33,10
+Cumberland County,1701,73,253370,UPMC Carlisle (FKA UPMC Pinnacle Carlisle Carlisle Regional Medical Center),Short Term Acute Care Hospital,165,66,10,10,0,0.75442892,99,2
+Cumberland County,1701,73,253370,Encompass Health Rehabilitation Hospital of Mechanicsburg (FKA HealthSouth Rehabilitation Hospital of Mechanicsburg),Rehabilitation Hospital,75,75,0,0,0,0.66578996,0,0
+Cumberland County,1701,73,253370,Select Specialty Hospital - Camp Hill,Long Term Acute Care Hospital,31,92,12,12,0,0.77742702,-61,6
+Cumberland County,1701,73,253370,UPMC Pinnacle West Shore (FKA West Shore Hospital),Short Term Acute Care Hospital,102,102,18,18,,,0,0
+Dauphin County,3620,170,278299,UPMC Pinnacle Harrisburg (FKA Harrisburg Hospital),Short Term Acute Care Hospital,627,493,20,20,29,0.86611462,134,9
+Dauphin County,3620,170,278299,Penn State Health Milton S Hershey Medical Center,Short Term Acute Care Hospital,548,548,77,77,50,0.82684231,0,16
+Dauphin County,3620,170,278299,Penn State Hershey Rehabilitation Hospital,Rehabilitation Hospital,76,76,0,0,0,0.6648522,0,0
+Dauphin County,3620,170,278299,Pennsylvania Psychiatric Institute,Psychiatric Hospital,89,89,0,0,0,0.76967829,0,0
+Dauphin County,3620,170,278299,Helen M Simpson Rehabilitation Hospital,Rehabilitation Hospital,55,55,0,0,0,0.71551681,0,0
+Delaware County,11006,747,566747,Riddle Hospital,Short Term Acute Care Hospital,204,204,14,14,0,0.5346092,0,3
+Delaware County,11006,747,566747,Delaware County Memorial Hospital,Short Term Acute Care Hospital,168,145,14,14,6,0.45481342,23,5
+Delaware County,11006,747,566747,Mercy Catholic Medical Center - Mercy Fitzgerald Campus,Short Term Acute Care Hospital,183,183,18,18,0,0.58440608,0,12
+Delaware County,11006,747,566747,Crozer-Chester Medical Center,Short Term Acute Care Hospital,459,359,39,39,18,0.62059754,100,20
+Delaware County,11006,747,566747,Kindred Hospital Philadelphia - Havertown,Long Term Acute Care Hospital,57,57,9,9,,,0,2
+Elk County,66,2,29910,Penn Highlands Elk,Critical Access Hospital,35,25,4,4,0,0.58882195,10,2
+Erie County,1439,37,269728,Millcreek Community Hospital,Short Term Acute Care Hospital,167,130,6,6,0,0.47008067,37,2
+Erie County,1439,37,269728,Corry Memorial Hospital,Critical Access Hospital,20,20,3,3,0,0.32684931,0,2
+Erie County,1439,37,269728,Erie VA Medical Center,VA Hospital,21,21,1,1,,,0,1
+Erie County,1439,37,269728,UPMC Hamot,Short Term Acute Care Hospital,423,421,42,42,24,0.63923609,2,11
+Erie County,1439,37,269728,Saint Vincent Hospital,Short Term Acute Care Hospital,371,298,20,20,21,0.53969419,73,6
+Erie County,1439,37,269728,Select Specialty Hospital - Erie,Long Term Acute Care Hospital,50,50,9,9,0,0.45375341,0,4
+Erie County,1439,37,269728,Encompass Health Rehabilitation Hospital of Erie (FKA HealthSouth Rehabilitation Hospital of Erie),Rehabilitation Hospital,108,100,0,0,0,0.40367123,8,0
+Fayette County,755,7,129274,Uniontown Hospital,Short Term Acute Care Hospital,160,149,15,15,0,0.57423919,11,3
+Fayette County,755,7,129274,Highlands Hospital,Short Term Acute Care Hospital,64,61,11,11,0,0.30222321,3,2
+Forest County,14,0,7247,,,,,,,,,,
+Franklin County,1679,49,155027,WellSpan Chambersburg Hospital,Short Term Acute Care Hospital,285,242,10,10,7,0.38167304,43,7
+Franklin County,1679,49,155027,WellSpan Waynesboro Hospital,Short Term Acute Care Hospital,57,57,10,10,0,0.32847872,0,2
+Franklin County,1679,49,155027,Roxbury Treatment Center (FKA Roxbury Psychiatric Hospital),Psychiatric Hospital,112,112,60,60,0,0.88691294,0,0
+Fulton County,42,2,14530,Fulton County Medical Center,Critical Access Hospital,21,21,4,4,0,0.33750814,0,1
+Greene County,162,1,36233,Washington Health System Greene (FKA Southwest Regional Medical Center),Short Term Acute Care Hospital,23,23,4,4,0,0.35294819,0,2
+Huntingdon County,393,6,45144,Penn Highlands Huntingdon (FKA JC Blair Memorial Hospital),Short Term Acute Care Hospital,71,57,7,7,0,0.29473683,14,2
+Indiana County,568,12,84073,Indiana Regional Medical Center,Short Term Acute Care Hospital,166,110,12,12,0,0.49083439,56,2
+Jefferson County,107,2,43425,Penn Highlands Brookville,Critical Access Hospital,35,25,4,4,0,0.4210411,10,2
+Jefferson County,107,2,43425,Punxsutawney Area Hospital,Short Term Acute Care Hospital,49,44,5,5,0,0.37061021,5,2
+Juniata County,169,7,24763,,,,,,,,,,
+Lackawanna County,2332,215,209674,Regional Hospital of Scranton,Short Term Acute Care Hospital,186,154,24,24,0,0.67288738,32,6
+Lackawanna County,2332,215,209674,Moses Taylor Hospital,Short Term Acute Care Hospital,213,161,11,11,15,0.5083468,52,3
+Lackawanna County,2332,215,209674,Geisinger Community Medical Center,Short Term Acute Care Hospital,293,255,18,18,0,0.53383368,38,9
+Lackawanna County,2332,215,209674,Clarks Summit State Hospital,Psychiatric Hospital,203,203,0,0,0,0.78727311,0,0
+Lackawanna County,2332,215,209674,Allied Rehab Hospital (FKA Allied Services Rehab Hospital),Rehabilitation Hospital,82,82,0,0,0,0.38640159,0,0
+Lancaster County,7391,449,545724,UPMC Lititz (FKA UPMC Pinnacle Lititz Heart of Lancaster Regional Medical Center),Short Term Acute Care Hospital,148,55,6,6,0,0.38600248,93,2
+Lancaster County,7391,449,545724,Lancaster General Hospital,Short Term Acute Care Hospital,632,581,48,48,29,0.70811439,51,14
+Lancaster County,7391,449,545724,WellSpan Ephrata Community Hospital,Short Term Acute Care Hospital,141,115,19,19,5,0.49893984,26,4
+Lancaster County,7391,449,545724,Lancaster Rehabilitation Hospital,Rehabilitation Hospital,59,59,0,0,0,0.82303226,0,0
+Lancaster County,7391,449,545724,Lancaster Behavioral Health Hospital,Psychiatric Hospital,126,126,0,0,0,0.32359058,0,0
+Lawrence County,490,22,85512,UPMC Jameson (FKA Jameson Memorial Hospital - North Campus),Short Term Acute Care Hospital,153,121,12,12,0,0.51811975,32,3
+Lebanon County,1890,58,141793,Lebanon VA Medical Center,VA Hospital,145,145,2,2,,,0,2
+Lebanon County,1890,58,141793,WellSpan Good Samaritan Hospital,Short Term Acute Care Hospital,159,145,18,18,0,0.53948039,14,5
+Lebanon County,1890,58,141793,WellSpan Philhaven (FKA Philhaven Behavioral Healthcare Services),Psychiatric Hospital,103,103,0,0,0,0.93746507,0,0
+Lehigh County,5428,345,369318,Lehigh Valley Hospital - Cedar Crest,Short Term Acute Care Hospital,877,1023,129,129,50,0.67339295,-146,22
+Lehigh County,5428,345,369318,St Lukes Sacred Heart Campus (FKA Sacred Heart Hospital),Short Term Acute Care Hospital,133,129,12,12,0,0.66169542,4,2
+Lehigh County,5428,345,369318,Lehigh Valley Hospital - Muhlenberg,Short Term Acute Care Hospital,256,194,30,30,0,0.67524064,62,5
+Lehigh County,5428,345,369318,Coordinated Health - Allentown Hospital,Short Term Acute Care Hospital,20,20,4,4,0,0.28767124,0,0
+Lehigh County,5428,345,369318,KidsPeace Childrens Hospital - Kidspeace Orchard Hills Campus,Psychiatric Hospital,120,120,0,0,,,0,0
+Lehigh County,5428,345,369318,Good Shepherd Rehabilitation Hospital - Allentown,Rehabilitation Hospital,106,106,1,1,0,0.66092014,0,2
+Lehigh County,5428,345,369318,Good Shepherd Specialty Hospital,Long Term Acute Care Hospital,32,32,5,5,0,0.86429793,0,3
+Luzerne County,3981,189,317417,Geisinger Wyoming Valley Medical Center,Short Term Acute Care Hospital,266,300,25,25,14,0.69816124,-34,12
+Luzerne County,3981,189,317417,Lehigh Valley Hospital - Hazleton (FKA Hazleton General Hospital),Short Term Acute Care Hospital,150,134,12,12,0,0.41416889,16,4
+Luzerne County,3981,189,317417,Wilkes-Barre General Hospital,Short Term Acute Care Hospital,412,258,30,30,0,0.57319492,154,9
+Luzerne County,3981,189,317417,Wilkes-Barre VA Medical Center,VA Hospital,58,58,1,1,,,0,2
+Luzerne County,3981,189,317417,Geisinger South Wilkes - Barre,Short Term Acute Care Hospital,28,28,0,0,,0.65129167,0,0
+Luzerne County,3981,189,317417,First Hospital,Psychiatric Hospital,149,127,0,0,0,0.80619133,22,0
+Luzerne County,3981,189,317417,Heinz Rehab Hospital (FKA John Heinz Institute of Rehab Medicine),Rehabilitation Hospital,47,47,0,0,0,0.46348003,0,0
+Luzerne County,3981,189,317417,PAM Specialty Hospital of Wilkes-Barre,Long Term Acute Care Hospital,36,36,6,6,0,0.51613396,0,2
+Lycoming County,603,23,113299,Geisinger Jersey Shore Hospital,Critical Access Hospital,25,25,4,4,0,0.17830136,0,2
+Lycoming County,603,23,113299,UPMC Muncy (FKA UPMC Susquehanna Muncy),Critical Access Hospital,20,20,3,3,0,0.5838356,0,2
+Lycoming County,603,23,113299,UPMC Williamsport (FKA UPMC Susquehanna Williamsport),Short Term Acute Care Hospital,255,227,28,28,0,0.60862464,28,8
+Lycoming County,603,23,113299,UPMC Williamsport Divine Providence Campus (FKA Williamsport Regional Medical Center - Divine Providence Campus),Psychiatric Hospital,31,31,0,0,0,0.46663719,0,1
+McKean County,51,2,40625,UPMC Kane (FKA Kane Community Hospital),Short Term Acute Care Hospital,31,31,5,5,0,0.11011931,0,2
+McKean County,51,2,40625,Bradford Regional Medical Center,Short Term Acute Care Hospital,107,107,5,5,0,0.3664993,0,2
+Mercer County,662,13,109424,UPMC Horizon - Greenville,Short Term Acute Care Hospital,136,122,6,6,0,0.27569944,14,3
+Mercer County,662,13,109424,Sharon Regional Medical Center (FKA Sharon Regional Health System),Short Term Acute Care Hospital,220,195,12,12,0,0.43511063,25,4
+Mercer County,662,13,109424,AHN Grove City (FKA Grove City Medical Center),Short Term Acute Care Hospital,67,77,8,8,0,0.14488454,-10,2
+Mercer County,662,13,109424,Edgewood Surgical Hospital,Short Term Acute Care Hospital,10,10,2,2,0,0.02958904,0,0
+Mifflin County,200,1,46138,Geisinger Lewistown Hospital,Short Term Acute Care Hospital,123,109,10,10,0,0.30466256,14,3
+Monroe County,1767,129,170271,Lehigh Valley Hospital - Pocono (FKA Pocono Medical Center),Short Term Acute Care Hospital,249,205,20,20,0,0.4659138,44,6
+Monroe County,1767,129,170271,St Lukes Monroe Campus,Short Term Acute Care Hospital,90,90,12,12,0,0.74834096,0,3
+Montgomery County,11738,869,830915,Bryn Mawr Hospital,Short Term Acute Care Hospital,287,267,30,30,0,0.49063671,20,5
+Montgomery County,11738,869,830915,Lankenau Medical Center,Short Term Acute Care Hospital,370,370,46,46,0,0.62152535,0,10
+Montgomery County,11738,869,830915,Valley Forge Medical Center and Hospital,Short Term Acute Care Hospital,50,50,9,9,0,0.68897688,0,0
+Montgomery County,11738,869,830915,Eagleville Hospital,Short Term Acute Care Hospital,83,49,9,9,0,0.68247133,34,0
+Montgomery County,11738,869,830915,Abington Hospital - Jefferson Health (FKA Abington Memorial Hospital),Short Term Acute Care Hospital,655,592,89,89,0,0.59034467,63,15
+Montgomery County,11738,869,830915,Suburban Community Hospital (FKA Mercy Suburban Hospital),Short Term Acute Care Hospital,126,111,12,12,0,0.23337036,15,6
+Montgomery County,11738,869,830915,Pottstown Hospital,Short Term Acute Care Hospital,232,183,18,18,0,0.41476157,49,5
+Montgomery County,11738,869,830915,Einstein Medical Center Montgomery (FKA Montgomery Hospital Medical Center),Short Term Acute Care Hospital,171,170,22,22,9,0.71310025,1,6
+Montgomery County,11738,869,830915,Holy Redeemer Hospital and Medical Center (AKA Holy Redeemer Health System),Short Term Acute Care Hospital,242,201,20,20,22,0.49557692,41,5
+Montgomery County,11738,869,830915,Abington - Lansdale Hospital (FKA Lansdale Hospital),Short Term Acute Care Hospital,140,140,14,14,0,0.38663405,0,4
+Montgomery County,11738,869,830915,Norristown State Hospital,Psychiatric Hospital,309,363,0,0,0,0.88333708,-54,0
+Montgomery County,11738,869,830915,Brooke Glen Behavioral Hospital,Psychiatric Hospital,146,146,2,2,0,0.91551888,0,2
+Montgomery County,11738,869,830915,Montgomery County Emergency Service,Psychiatric Hospital,81,73,0,0,0,0.67352223,8,0
+Montgomery County,11738,869,830915,The Horsham Clinic,Psychiatric Hospital,206,206,0,0,0,0.89994681,0,0
+Montgomery County,11738,869,830915,Physicians Care Surgical Hospital,Short Term Acute Care Hospital,12,12,2,2,0,0.40799087,0,0
+Montgomery County,11738,869,830915,Malvern Institute - Willow Grove Addiction Treatment Center,Short Term Acute Care Hospital,90,90,16,16,,,0,0
+Montour County,162,5,18230,Geisinger Medical Center,Short Term Acute Care Hospital,559,524,68,68,55,0.73741734,35,20
+Montour County,162,5,18230,Select Specialty Hospital - Danville,Long Term Acute Care Hospital,30,30,7,7,0,0.77479452,0,3
+Montour County,162,5,18230,Geisinger Encompass Health Rehabilitation Hospital (FKA Geisinger HealthSouth Rehabilitation Hospital),Rehabilitation Hospital,42,42,0,0,0,0.66549248,0,0
+Montour County,162,5,18230,Danville State Hospital,Psychiatric Hospital,161,161,0,0,0,0.96263081,0,0
+Northampton County,4301,304,305285,St Lukes University Hospital - Bethlehem,Short Term Acute Care Hospital,582,482,14,14,16,0.72759396,100,16
+Northampton County,4301,304,305285,St Lukes Hospital Easton Campus (FKA Easton Hospital),Short Term Acute Care Hospital,196,164,24,24,0,0.29719344,32,4
+Northampton County,4301,304,305285,St Lukes Anderson Campus,Short Term Acute Care Hospital,108,108,12,12,0,0.67848808,0,4
+Northumberland County,826,46,90843,,,,,,,,,,
+Perry County,195,6,46272,,,,,,,,,,
+Philadelphia County,30620,1797,1584064,Fox Chase Cancer Center,Short Term Acute Care Hospital,100,100,8,8,0,0.58534247,0,3
+Philadelphia County,30620,1797,1584064,Nazareth Hospital,Short Term Acute Care Hospital,185,152,14,14,0,0.54110634,33,7
+Philadelphia County,30620,1797,1584064,Pennsylvania Hospital,Short Term Acute Care Hospital,475,403,50,50,50,0.5194602,72,16
+Philadelphia County,30620,1797,1584064,Penn Presbyterian Medical Center,Short Term Acute Care Hospital,350,316,44,44,0,0.85294753,34,25
+Philadelphia County,30620,1797,1584064,Roxborough Memorial Hospital,Short Term Acute Care Hospital,131,107,18,18,0,0.30218923,24,3
+Philadelphia County,30620,1797,1584064,Cancer Treatment Centers of America - Philadelphia,Short Term Acute Care Hospital,74,74,12,12,0,0.094150312,0,2
+Philadelphia County,30620,1797,1584064,Childrens Hospital of Philadelphia (AKA CHOP),Childrens Hospital,564,555,88,88,0,0.85161543,9,29
+Philadelphia County,30620,1797,1584064,Corporal Michael J Crescenz VA Medical Center (AKA Philadelphia VA Medical Center),VA Hospital,142,142,3,3,,,0,2
+Philadelphia County,30620,1797,1584064,Hospital of the University of Pennsylvania,Short Term Acute Care Hospital,790,748,110,110,37,0.87597972,42,46
+Philadelphia County,30620,1797,1584064,Thomas Jefferson University Hospital,Short Term Acute Care Hospital,908,832,29,29,80,0.69751447,76,29
+Philadelphia County,30620,1797,1584064,Einstein Medical Center Philadelphia,Short Term Acute Care Hospital,750,509,32,32,23,0.69514322,241,17
+Philadelphia County,30620,1797,1584064,Kensington Hospital,Short Term Acute Care Hospital,45,14,2,2,0,0.69960862,31,0
+Philadelphia County,30620,1797,1584064,Chestnut Hill Hospital (AKA Chestnut Hill Health System),Short Term Acute Care Hospital,148,128,14,14,0,0.63773543,20,8
+Philadelphia County,30620,1797,1584064,Temple University Hospital,Short Term Acute Care Hospital,732,451,53,53,26,0.68305892,281,40
+Philadelphia County,30620,1797,1584064,St Christophers Hospital for Children,Childrens Hospital,188,188,44,44,29,0.43022901,0,7
+Philadelphia County,30620,1797,1584064,Penn Medicine Rittenhouse,Long Term Acute Care Hospital,38,38,7,7,0,0.6770007,0,3
+Philadelphia County,30620,1797,1584064,Friends Hospital,Psychiatric Hospital,192,192,1,1,0,0.9418807,0,1
+Philadelphia County,30620,1797,1584064,Fairmount Behavioral Health System (FKA Fairmount Hospital),Psychiatric Hospital,239,172,1,1,0,0.87644154,67,1
+Philadelphia County,30620,1797,1584064,Magee Rehabilitation Hospital,Rehabilitation Hospital,80,96,0,0,0,0.81069136,-16,0
+Philadelphia County,30620,1797,1584064,Kirkbride Center,Psychiatric Hospital,25,25,238,238,0,0.89244473,0,0
+Philadelphia County,30620,1797,1584064,Belmont Behavioral Hospital,Psychiatric Hospital,171,171,0,0,0,0.94497716,0,0
+Philadelphia County,30620,1797,1584064,Girard Medical Center,Short Term Acute Care Hospital,51,51,9,9,,0.78269988,0,0
+Philadelphia County,30620,1797,1584064,Kindred Hospital - Philadelphia,Long Term Acute Care Hospital,52,52,6,6,0,0.45806208,0,4
+Philadelphia County,30620,1797,1584064,Jefferson Torresdale Hospital,Short Term Acute Care Hospital,464,252,44,44,0,0.65284628,212,14
+Philadelphia County,30620,1797,1584064,Shriners Hospitals for Children - Philadelphia,Childrens Hospital,49,49,19,19,,,0,1
+Philadelphia County,30620,1797,1584064,Wills Eye Hospital,Short Term Acute Care Hospital,4,4,1,1,0,0.52465755,0,0
+Philadelphia County,30620,1797,1584064,Haven Behavioral Hospital of Philadelphia,Psychiatric Hospital,67,36,0,0,0,0.87245053,31,0
+Philadelphia County,30620,1797,1584064,The Liacouras Center Field Hospital (Temporarily Open due to COVID-19),Short Term Acute Care Hospital,,,0,0,,,0,0
+Pike County,559,21,55809,,,,,,,,,,
+Potter County,25,0,16526,UPMC Cole,Critical Access Hospital,49,25,4,4,0,0.5352329,24,2
+Schuylkill County,1046,52,141359,St Lukes Miners Campus,Short Term Acute Care Hospital,49,49,6,6,0,0.49164104,0,2
+Schuylkill County,1046,52,141359,Lehigh Valley Hospital - Schuylkill S Jackson Street (FKA Schuylkill Medical Center - S Jackson Street),Short Term Acute Care Hospital,189,118,10,10,0,0.67289972,71,6
+Schuylkill County,1046,52,141359,Lehigh Valley Hospital - Schuylkill E Norwegian Street (FKA Schuylkill Medical Center - E Norwegian Street),Short Term Acute Care Hospital,126,99,10,10,0,0.62617052,27,6
+Schuylkill County,1046,52,141359,Geisinger St Lukes Hospital,Short Term Acute Care Hospital,,,32,32,,,0,0
+Snyder County,236,3,40372,,,,,,,,,,
+Somerset County,195,3,73447,UPMC Somerset (FKA Somerset Hospital),Short Term Acute Care Hospital,111,81,14,14,0,0.25871807,30,3
+Somerset County,195,3,73447,Chan Soon-Shiong Medical Center at Windber (FKA Windber Medical Center),Short Term Acute Care Hospital,54,47,6,6,0,0.14304867,7,2
+Somerset County,195,3,73447,Conemaugh Health System - Conemaugh Meyersdale Medical Center (FKA Meyersdale Community Hospital),Critical Access Hospital,20,20,3,3,0,0.2089041,0,1
+Sullivan County,10,0,6066,,,,,,,,,,
+Susquehanna County,290,28,40328,Endless Mountains Health System (FKA Montrose General Hospital),Critical Access Hospital,25,25,4,4,0,0.30136988,0,0
+Susquehanna County,290,28,40328,Barnes Kasson County Hospital,Critical Access Hospital,25,25,4,4,0,0.30476713,0,0
+Tioga County,53,3,40591,UPMC Wellsboro (FKA UPMC Susquehanna Soldiers & Sailors Memorial Hospital),Critical Access Hospital,25,25,6,6,0,0.61479449,0,3
+Union County,438,6,44923,Evangelical Community Hospital,Short Term Acute Care Hospital,132,123,12,12,0,0.37282547,9,4
+Venango County,79,1,50668,UPMC Northwest,Short Term Acute Care Hospital,158,118,8,8,0,0.4332037,40,3
+Warren County,42,1,39191,Warren General Hospital,Short Term Acute Care Hospital,85,85,6,6,0,0.33772764,0,2
+Warren County,42,1,39191,Warren State Hospital,Psychiatric Hospital,152,152,0,0,0,0.90077507,0,0
+Washington County,1238,28,206865,Monongahela Valley Hospital,Short Term Acute Care Hospital,200,132,8,8,0,0.5172435,68,3
+Washington County,1238,28,206865,Canonsburg Hospital,Short Term Acute Care Hospital,104,88,8,8,0,0.1728518,16,2
+Washington County,1238,28,206865,Washington Hospital,Short Term Acute Care Hospital,260,214,37,37,0,0.43746001,46,3
+Washington County,1238,28,206865,Advanced Surgical Hospital,Short Term Acute Care Hospital,14,14,2,2,0,0.28003913,0,0
+Wayne County,204,10,51361,Wayne Memorial Hospital,Short Term Acute Care Hospital,95,76,8,8,0,0.36459985,19,3
+Westmoreland County,2003,49,348899,Excela Health Westmoreland Hospital,Short Term Acute Care Hospital,375,246,22,22,0,0.72138321,129,7
+Westmoreland County,2003,49,348899,Excela Health Frick Hospital,Short Term Acute Care Hospital,33,33,6,6,0,0.68941468,0,2
+Westmoreland County,2003,49,348899,Excela Health Latrobe Hospital,Short Term Acute Care Hospital,170,122,11,11,0,0.57459068,48,3
+Westmoreland County,2003,49,348899,Torrance State Hospital,Psychiatric Hospital,362,353,0,0,0,0.67821842,9,0
+Westmoreland County,2003,49,348899,Select Specialty Hospital - Laurel Highlands,Long Term Acute Care Hospital,40,40,6,6,0,0.50054795,0,3
+Westmoreland County,2003,49,348899,AHN Hempfield Neighborhood Hospital,Short Term Acute Care Hospital,,,32,32,,,0,0
+Wyoming County,72,8,26794,Tyler Memorial Hospital,Short Term Acute Care Hospital,44,44,6,6,0,0.060958903,0,2
+York County,4333,135,449058,UPMC Hanover (FKA UPMC Pinnacle Hanover Hanover Hospital),Short Term Acute Care Hospital,93,81,14,14,0,0.71292579,12,2
+York County,4333,135,449058,UPMC Memorial (FKA UPMC Pinnacle Memorial Hospital York),Short Term Acute Care Hospital,100,60,10,10,0,0.59018266,40,2
+York County,4333,135,449058,WellSpan York Hospital,Short Term Acute Care Hospital,585,522,60,60,44,0.76428932,63,17
+York County,4333,135,449058,Encompass Health Rehabilitation Hospital of York (FKA HealthSouth Rehabilitation Hospital of York),Rehabilitation Hospital,90,90,0,0,0,0.54593605,0,0
+York County,4333,135,449058,Wellspan Surgery & Rehabilitation Hospital,Short Term Acute Care Hospital,73,25,4,4,0,0.17534247,48,2
+York County,4333,135,449058,Orthopaedic and Spine Specialists Orthopaedic Hospital,Short Term Acute Care Hospital,26,30,5,5,0,0.30246577,-4,0
